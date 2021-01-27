@@ -25,10 +25,10 @@ title:                 Jack Andersen
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-Landinspektør med speciale i GeoInformatik
+Landinspektør med speciale i GeoInformatik. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Landinspektør med speciale i GeoInformatik
 
 # A list of keywords for your blog
 keywords:              []
@@ -41,34 +41,34 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Jack> <Andersen>
+  email:               <Jack@wisecloud.dk>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projecter
+#    url:               /projects/
+  - title:             CV
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2021 #. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
