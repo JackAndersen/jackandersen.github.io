@@ -172,7 +172,12 @@ education:
 #    awarder: "Techcrunch"
 #   summary: "There is no spoon."
 
-
+publications:
+  - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
+    publisher: "AAU"
+    releaseDate: "2016-06-08"
+    website: "https://projekter.aau.dk/projekter/da/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"
+    summary: "With a focus on computation and statistics within the GeoInformatics field, this project seeks to provide an understanding of technical geographic modelling. This is accomplished by using several different algorithms combined with Map algebra. The output of this model is used for comparative analysis against a pan-european dataset created by the JRC."
 
 skills:
   - name: "Geographic Analysis"
