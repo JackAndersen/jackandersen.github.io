@@ -11,7 +11,7 @@ basics:
   email: "Jack@wisecloud.dk"
   #phone: "+45 26707811"
   #website: "https://piedpiper.com"
-  intro: >
+  summary: >
     Jeg er vokset op  i Nordsjælland men bor i København min kæreste, Sofie.  Sammen har vi hunden Allie og datteren "".
     I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, Mit afgangsspeciale findes her på siden under "" og på AAU's projektbibliotek.
     Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette kan også afspejles i min tid som landmålder hvor grundprincippet og er virkeliggørelse af data.
@@ -126,50 +126,116 @@ work:
 #    summary: "Global movement of free coding clubs for young people."
 #    highlights:
 #      - "Awarded 'Teacher of the Month'"
+
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "Aalborg Universitet, Institut for Planlægning"
+    area: "Landinspektør Cand. Geom"
+    studyType: "Kandidat"
+    startDate: "2014-09-01"
+    endDate: "2016-06-15"
+    gpa: "11.0"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+      - "Kandidatspeciale \\ Master’s Thesis - 'Erosion risk mapping, using high resolution topographic data in RUSLE'"
+      - "Praktikforløb \\ Naturstyrelsen - 'Naturskovomlægning'"
+      - "GI – Integration, Applications and Society -'The Bruun Rule implemented in coastal recession analysis'"
+      - "GI Technology and Information Systems - 'Visualising BBR data using web technologies'"
+      
+education:
+  - institution: "Aalborg Universitet, Institut for Planlægning"
+    area: "Landinspektør Bsc. Geom"
+    studyType: "Bachelor"
+    startDate: "2011-09-01"
+    endDate: "2014-09-01"
+    gpa: "8.0"
+    courses:
+     - "Bachelorprojekt i ejendomsdannelse"
+     - "Kortlægning og afsætning"
+     - "Detaljeret opmåling"
+     - "Det åbne lands planlægning og arealforvaltning"
+     - "Byernes planlægning og arealforvaltning"
+     - "Fast ejendom og udvikling af det bebyggede miljø"
+     - "Geografisk information – steder, data og modeller"
+     
+education:
+  - institution: "HTX Hillerød"
+    area: "IT & Matematik"
+    studyType: "Ungdomsuddannelse"
+    startDate: "2007-09-01"
+    endDate: "2010-06-01"
+    #gpa: "8.0"
+    #courses:
+    #- ""
+      
+#awards:
+#  - title: "Digital Compression Pioneer Award"
+#    date: "2014-11-01"
+#    awarder: "Techcrunch"
+#   summary: "There is no spoon."
+
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
+    publisher: "AAU"
+    releaseDate: "2016-06-08"
+    website: "https://projekter.aau.dk/projekter/da/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"
+    summary: >
+    "With a focus on computation and statistics within the GeoInformatics field, this project seeks to provide an understanding 
+    of technical geographic modelling. This is accomplished by using several different algorithms combined with Map algebra. 
+    The output of this model is used for comparative analysis against a pan-european dataset created by the JRC."
+
 skills:
-  - name: "Web Development"
+  - name: "Geographic Analysis"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "ArcGIS"
+      - "QGIS"
+      - "MapInfo"
+      - "HALE"
+      - "FME"
+      - "PostGIS"
+  - name: "Surveying and Engineering"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Leica Instruments, Totalstation, GPS,  Nivelleringsinstrument"
+      - "AutoCAD Civil 3D"
+      - "AutoCAD Inventor, Fusion 360, Rhino 3D, SolidWorks, Blender"
+  - name: "Data modeling"
+    level: "Master"
+    keywords:
+      - "Database management, Data transformation"
+      - "ISO, INSPIRE, WISE and other Standards"
+      - "Linked data"
+  - name: "Information Technology"
+    level: "Medium"
+    keywords:
+      - "DBMS, Webtechnologies and scripting"
+      
 languages:
+  - language: "Dansk"
+    fluency: "Hovedsprog"
   - language: "English"
     fluency: "Native speaker"
 interests:
-  - name: "Wildlife"
+  - name: "Natur, friluftliv og jagt"
+    #keywords:
+    #  - "Nature"
+  - name: "Teknologi"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "3D print"
+      - "Teknisk tegning og CAD"
+      - "Leg med data og nytænkning"
+  - name: "Teknik og mekanik og motorcykler"
+    #keywords:
+    #  - "Motorcykel"
 references:
-  - name: "Erlich Bachman"
+  - name: "Morten Kildevang Jensen"
     reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      Jeg har haft fornøjelsen af at være personaleleder for Jack gennem de sidste 2 år i SVANA og Miljøstyrelsen. Jack har 
+      arbejdet som specialist i styrelsens Data- og GIS teams, hvor han bl.a. har arbejdet med dataservices, distribution og 
+      modellering – ofte i relation til geografiske data. Nogle af hans primære ansvarsområder har været udvikling af 
+      løsninger i styrelsens GIS værktøjer og vejlede data tunge projekter – herunder EU rapporteringsforpligtigelser under 
+      Vandrammedirektivet. Jack ved det meste om GIS og data – og evner hurtigt at lære nye ting.
+      Jack har ligeledes stor indsigt i INSPIRE direktivet og er vedligeholdelsesansvarlig for Miljøstyrelsens metadata system 
+      som er baseret på Geonetwork Open Source. Jack er analytisk stærk og logisk tænkende – og er samtidig er en super god 
+      kollega med et stærkt socialt gen, der gerne hjælper andre og deler ud af sin erfaring. Det betyder at Jack er stærkt 
+      efterspurgt i tekniske projekter og som rådgiver på forskellige opgaver på tværs af styrelsen.
+      Jeg kan give Jack mine varmeste anbefalinger!
