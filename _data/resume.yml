@@ -45,12 +45,12 @@ work:
     highlights:
       - "Administrerer Sector9 udvikling og features"
       - "Koordinerer teknisk MitID og NemLog-in3 implementeringen"
-work:
+
   - company: "BCD company"
     position: "Application Manager"
     website: "https://erst.dk"
-    startDate: "2018-09-15"
-    endDate: ""
+    startDate: "2016-09-15"
+    endDate: "2018-09-15"
     summary: >
       I Erhvervsstyrelsens systemportefølje er jeg ansvarlig for projektledelsen af IT-sikkerhedskomponenten Sector9.
       Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. jeg udøver den 
