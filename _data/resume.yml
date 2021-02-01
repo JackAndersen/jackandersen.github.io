@@ -174,7 +174,7 @@ education:
 
 publications:
   - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
-    publisher: "AAU"
+    publisher: "Jack Andersen AAU"
     releaseDate: "2016-06-08"
     website: "https://projekter.aau.dk/projekter/da/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"
     summary: "With a focus on computation and statistics within the GeoInformatics field, this project seeks to provide an understanding of technical geographic modelling. This is accomplished by using several different algorithms combined with Map algebra. The output of this model is used for comparative analysis against a pan-european dataset created by the JRC."
@@ -192,19 +192,29 @@ skills:
   - name: "Surveying and Engineering"
     level: "Master"
     keywords:
-      - "Leica Instruments, Totalstation, GPS,  Nivelleringsinstrument"
+      - "Leica Instruments"
       - "AutoCAD Civil 3D"
-      - "AutoCAD Inventor, Fusion 360, Rhino 3D, SolidWorks, Blender"
+      - "AutoCAD Inventor"
+      - "Fusion 360"
+      - "Rhino 3D"
+      - "SolidWorks"
+      - "Blender"
   - name: "Data modeling"
     level: "Master"
     keywords:
-      - "Database management, Data transformation"
-      - "ISO, INSPIRE, WISE and other Standards"
+      - "Database management"
+      - "Data transformation"
+      - "ISO"
+      - "INSPIRE"
+      - "WISE"
+      - "and other Standards"
       - "Linked data"
   - name: "Information Technology"
     level: "Medium"
     keywords:
-      - "DBMS, Webtechnologies and scripting"
+      - "DBMS"
+      - "Webtechnologies"
+      - "Py scripting"
       
 languages:
   - language: "Dansk"
@@ -231,8 +241,10 @@ references:
       modellering – ofte i relation til geografiske data. Nogle af hans primære ansvarsområder har været udvikling af 
       løsninger i styrelsens GIS værktøjer og vejlede data tunge projekter – herunder EU rapporteringsforpligtigelser under 
       Vandrammedirektivet. Jack ved det meste om GIS og data – og evner hurtigt at lære nye ting.
+      
       Jack har ligeledes stor indsigt i INSPIRE direktivet og er vedligeholdelsesansvarlig for Miljøstyrelsens metadata system 
       som er baseret på Geonetwork Open Source. Jack er analytisk stærk og logisk tænkende – og er samtidig er en super god 
       kollega med et stærkt socialt gen, der gerne hjælper andre og deler ud af sin erfaring. Det betyder at Jack er stærkt 
       efterspurgt i tekniske projekter og som rådgiver på forskellige opgaver på tværs af styrelsen.
+      
       Jeg kan give Jack mine varmeste anbefalinger!
