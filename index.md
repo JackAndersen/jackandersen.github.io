@@ -58,7 +58,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ### Publikationer
 
 <p>
-  <img width="250" align='right' src="/assets/img/misc/frontpage.png?raw=true">
+  <img width="250" align='left' src="/assets/img/misc/frontpage.png?raw=true">
 </p>
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. 
 <!--![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}>
