@@ -9,7 +9,7 @@ Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** og **WISE**. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**. 
 Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 
-![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](/assets/img/logo/klip_wisecloud1.png){:.lead width="800" height="100" loading="lazy"}
 
 
 
