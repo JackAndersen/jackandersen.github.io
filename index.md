@@ -35,18 +35,10 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 | Erfaring | Faglighed | Personlighed |
 |-|-|-|
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Geografisk_Analyse-informational?style=flat&logo=Facebook-Gaming&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Design_&_Kartografi-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Kreativitet-informational?style=flat&logo=ActiGraph&logoColor=white&color=00cc66) |
+
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Datainfrastruktur_&_INSPIRE-informational?style=flat&logo=BandLab&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Database-informational?style=flat&logo=Blueprint&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Sammenspil-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=00cc66) |
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Metadata,_API_&_Services-informational?style=flat&logo=Google-Maps&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐-Udvikling_&_kode-informational?style=flat&logo=Docker&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐-Lederevne-informational?style=flat&logo=kubernetes&logoColor=white&color=00cc66) |
 {:.stretch-table}
-
-## 🔧 Værktøjer
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 ---
 
@@ -57,17 +49,13 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 | | | | | | |
 {:.stretch-table}
 
+---
 
+### Publikationer
 <p>
-  <img width="250" align='left' src="/assets/img/misc/hlm-768x432.jpg?raw=true">
+  <img width="250" align='right' src="/assets/img/misc/LScompare10_crop.png?raw=true">
 </p>
- 
-### Catch21
-
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. 
-
- ---
-
 <!--![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}>
 
 
