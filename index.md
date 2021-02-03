@@ -10,21 +10,19 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 ## 🎓 Uddannelse
 <!---#https://shields.io/--->
-![](https://img.shields.io/badge/Gymnasie-HTX_Hillerød_2007_\\_2010-informational?style=flat&logo=SmartThings&logoColor=white&color=blue) $$\longrightarrow$$
-![](https://img.shields.io/badge/appveyor-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=blue) $$\longrightarrow$$
-![](https://img.shields.io/badge/AAU-Landindspektør_2011_\\_2016-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=blue)
+![](https://img.shields.io/badge/GYM-HTX_Hillerød_2007_\\_2010-informational?style=flat&logo=SmartThings&logoColor=white&color=blue) $$\longrightarrow$$
+![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=blue) $$\longrightarrow$$
+![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_\\_2016-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=blue)
 
 ## 👔 Karriere
-| Ansættelser | Stillinger |
-|----------:|:----------|
-| Erhvervsstyrelsen [2018 ---->] | [2018 ---->] **Application Manager** |
-| Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
-| Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
-| Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
-| HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
+|                                         Ansættelser | Stillinger                                 |
+|----------------------------------------------------:|--------------------------------------------|
+|                      Erhvervsstyrelsen [2018 ---->] | [2018 ---->] **Application Manager**       |
+|                          Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist**         |
+| Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist**         |
+|                           Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder**            |
+|                                 HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 {:.stretch-table}
-
-
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
