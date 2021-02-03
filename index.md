@@ -16,9 +16,9 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 ## 🎓 Uddannelse
 <!---#https://shields.io/--->
-![](https://img.shields.io/badge/HTX-Mat/IT_2007_/_2010-informational?style=flat&logo=Apache-Spark&logoColor=white&color=blue) $$\longrightarrow$$
-![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=00cc66) $$\longrightarrow$$
-![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_/_2016-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=ff9933)
+![](https://img.shields.io/badge/HTX-Mat/IT_2007_/_2010-informational?style=?style=flat-square&logo=Apache-Spark&logoColor=white&color=blue) $$\longrightarrow$$
+![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=?style=flat-square&logo=Acclaim&logoColor=white&color=00cc66) $$\longrightarrow$$
+![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_/_2016-informational?style=flat-square&logo=OpenStreetMap&logoColor=white&color=ff9933)
 
 ---
  
