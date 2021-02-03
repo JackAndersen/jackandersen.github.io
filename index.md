@@ -36,10 +36,10 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ---
  
 ## ⭐ Færdigheder
+
 | Erfaring | Faglighed | Personlighed |
 |-|-|-|
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Geografisk_Analyse-informational?style=flat&logo=Facebook-Gaming&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Design_&_Kartografi-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Kreativitet-informational?style=flat&logo=ActiGraph&logoColor=white&color=00cc66) |
-
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Datainfrastruktur_&_INSPIRE-informational?style=flat&logo=BandLab&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Database-informational?style=flat&logo=Blueprint&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Sammenspil-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=00cc66) |
 | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Metadata,_API_&_Services-informational?style=flat&logo=Google-Maps&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐-Udvikling_&_kode-informational?style=flat&logo=Docker&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐-Lederevne-informational?style=flat&logo=kubernetes&logoColor=white&color=00cc66) |
 {:.stretch-table}
