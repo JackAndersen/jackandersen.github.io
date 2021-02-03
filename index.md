@@ -62,6 +62,15 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 </p>
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. 
 
+
+
+
+
+
+
+
+
+
 [documentation]: docs/README.md
 [install]: docs/install.md
 [upgrade]: docs/upgrade.md
