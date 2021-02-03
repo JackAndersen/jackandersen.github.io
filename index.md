@@ -9,10 +9,11 @@ Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE**🗺️ og **WISE**🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter⚙️, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 <!---#https://shields.io/--->
-![](https://img.shields.io/badge/appveyor-Gymnasie_2007_\\\_2010-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)$$\longrightarrow$$
+![](https://img.shields.io/badge/appveyor-Gymnasie_2007_\\\_2010-informational?style=flat&logo=appveyor&logoColor=white&color=blue)$$\longrightarrow$$
 ![](https://img.shields.io/badge/appveyor-Værnepligtig_2011-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)$$\longrightarrow$$
 ![](https://img.shields.io/badge/appveyor-Landindspektør_2011_\\\_2016-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)
 
+⭐
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -33,13 +34,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 $$\longrightarrow$$
 $$\bigstar$$
-
-||
-|:----------|
-|  :star: :star: :star: :star:|
-|  :star:| 
-| :star:|
-{:.stretch-table}
+⭐
 
 ![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}
 
