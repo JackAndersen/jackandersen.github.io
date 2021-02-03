@@ -20,12 +20,12 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 | Ansættelser | Stillinger |
 |-:|-|
-| Erhvervsstyrelsen [2018 --->] | [2018 --->] **Application Manager** |
+| Erhvervsstyrelsen [2018 ---->] | [2018 ---->] **Application Manager** |
 | Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
 | Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
 | HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
-
+{:.stretch-table}
 ---
  
 <p>
