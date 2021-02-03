@@ -3,7 +3,11 @@ layout: page
 title: Jack Andersen
 sitemap: false
 ---
+
 ### Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p>
+  <img width="200" align='right' src="/assets/img/misc/LScompare10_crop.png?raw=true">
+</p>
 Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
@@ -52,12 +56,12 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ---
 
 ### Publikationer
+
 <p>
-  <img width="250" align='right' src="/assets/img/misc/LScompare10_crop.png?raw=true">
+  <img width="250" align='right' src="/assets/img/misc/frontpage.png?raw=true">
 </p>
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. 
 <!--![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}>
-
 
 
 
