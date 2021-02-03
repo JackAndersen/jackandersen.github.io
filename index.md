@@ -14,9 +14,38 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=blue) $$\longrightarrow$$
 ![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_\\_2016-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=blue)
 
+---
+ 
 ## 👔 Karriere
 
+| Ansættelser | Stillinger |
+|-:|-|
+| Erhvervsstyrelsen [2018 --->] | [2018 --->] **Application Manager** |
+| Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
+| Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
+| Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
+| HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 
+---
+ 
+<p>
+  <img width="250" align='left' src="https://www.thesprucepets.com/thmb/COdGzNriu8oQVi8igXmSzFzXTRk=/2109x2109/smart/filters:no_upscale()/puppy-samoyed-boy-990077480-5c89719646e0fb00012c67e8.jpg?raw=true">
+</p>
+ 
+### Catch21
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library. 
+
+ ---
+
+<p>
+  <img width="250" align='right' src="https://www.thesprucepets.com/thmb/COdGzNriu8oQVi8igXmSzFzXTRk=/2109x2109/smart/filters:no_upscale()/puppy-samoyed-boy-990077480-5c89719646e0fb00012c67e8.jpg?raw=true">
+</p>
+
+| Erfaring | Faglighed | Personlighed |
+|:----------:|:----------:|:----------:|
+| **Geografisk Analyse** :star: :star: :star: <br> **Dataminfrastruktur & INSPIRE** :star: <br> **Metadata, API & Services** :star: :star: | **Database** <br> **Udvikling & kode** <br> **Design & Kartografi** | **Lederevne** <br> **Sammenspil** <br> **Kreativitet** |
+{:.stretch-table}
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -53,10 +82,7 @@ $$\bigstar$$
 |                                 HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 {:.stretch-table}
 
-| Erfaring | Faglighed | Personlighed |
-|:----------:|:----------:|:----------:|
-| **Geografisk Analyse** :star: :star: :star: <br> **Dataminfrastruktur & INSPIRE** :star: <br> **Metadata, API & Services** :star: :star: | **Database** <br> **Udvikling & kode** <br> **Design & Kartografi** | **Lederevne** <br> **Sammenspil** <br> **Kreativitet** |
-{:.stretch-table}
+
 
 | Nytænkning af data | Mekanik & Motorcykler | Elektronik, Arduino, Robotter & Raspberry Pi | Friluftliv, Cykler & Jagt | CAD, Design, 3D Print & CNC | Litteratur & Brætspil |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
