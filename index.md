@@ -3,11 +3,10 @@ layout: page
 title: Jack Andersen
 sitemap: false
 ---
-# Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
+### Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
-Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** og **WISE**. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**. 
-Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
+Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE**🗺️ og **WISE**🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter⚙️, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 
 ## 🔧 Technologies & Tools
@@ -27,10 +26,8 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
-$$
-\longrightarrow
-\bigstar 
-$$
+$$\longrightarrow$$
+$$\bigstar$$
 
 ||
 |:----------|
