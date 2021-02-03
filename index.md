@@ -13,7 +13,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ## 🎓 Uddannelse
 <!---#https://shields.io/--->
 ![](https://img.shields.io/badge/HTX-Mat/IT_2007_/_2010-informational?style=flat&logo=Apache-Spark&logoColor=white&color=blue) $$\longrightarrow$$
-![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=66cc66) $$\longrightarrow$$
+![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat&logo=Acclaim&logoColor=white&color=00cc66) $$\longrightarrow$$
 ![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_/_2016-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=ff9933)
 
 ---
@@ -34,9 +34,9 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ## ⭐ Færdigheder
 | Erfaring | Faglighed | Personlighed |
 |-|-|-|
-| ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Geografisk_Analyse-informational?style=flat&logo=Facebook-Gaming&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Design_&_Kartografi-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Kreativitet-informational?style=flat&logo=ActiGraph&logoColor=white&color=2bbc8a) |
-| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Datainfrastruktur_&_INSPIRE-informational?style=flat&logo=BandLab&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Database-informational?style=flat&logo=Blueprint&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Sammenspil-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=2bbc8a) |
-| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Metadata,_API_&_Services-informational?style=flat&logo=Google-Maps&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐-Udvikling_&_kode-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a) | ![](https://img.shields.io/badge/⭐⭐⭐-Lederevne-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) |
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Geografisk_Analyse-informational?style=flat&logo=Facebook-Gaming&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Design_&_Kartografi-informational?style=flat&logo=OpenStreetMap&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Kreativitet-informational?style=flat&logo=ActiGraph&logoColor=white&color=00cc66) |
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Datainfrastruktur_&_INSPIRE-informational?style=flat&logo=BandLab&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Database-informational?style=flat&logo=Blueprint&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Sammenspil-informational?style=flat&logo=Buy-Me-A-Coffee&logoColor=white&color=00cc66) |
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Metadata,_API_&_Services-informational?style=flat&logo=Google-Maps&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐-Udvikling_&_kode-informational?style=flat&logo=Docker&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐-Lederevne-informational?style=flat&logo=kubernetes&logoColor=white&color=00cc66) |
 {:.stretch-table}
 
 ## 🔧 Værktøjer
@@ -48,6 +48,14 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
+---
+
+## 🏕️ Interesser
+
+| Nytænkning af data | Mekanik & Motorcykler | Elektronik, Arduino, Robotter & Raspberry Pi | Friluftliv, Cykler & Jagt | CAD, Design, 3D Print & CNC | Litteratur & Brætspil |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| | | | | | |
+{:.stretch-table}
 
 
 <p>
