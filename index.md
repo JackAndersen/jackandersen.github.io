@@ -12,7 +12,9 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 <center>
 | Gymnasie - 2007 \ 2010 | Værnepligtig - 2011 | Landindspektør - 2011 \ 2016 |
 |:----------------------:|:-------------------:|:----------------------------:|
+{:.stretch-table}
 </center>
+
 <center>  
 | Ansættelser | Stillinger |
 |----------------:|:-----------|
@@ -23,12 +25,14 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 | HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 {:.stretch-table}
 </center>
+
 <center>
-|             Erfaring             |        Faglighed        |   Personlighed  |
-|:--------------------------------:|:-----------------------:|:---------------:|
-|      **Geografisk Analyse**      |       **Database**      |  **Lederevne**  |
-| **Dataminfrastruktur & INSPIRE** |   **Udvikling & kode**  |  **Sammenspil** |
-|   **Metadata, API & Services**   | **Design & Kartografi** | **Kreativitet** |
+| Erfaring | Faglighed | Personlighed |
+|:-:|:-:|:-:|
+| **Geografisk Analyse**  | **Database** | **Lederevne** |
+| **Dataminfrastruktur & INSPIRE** | **Udvikling & kode** | **Sammenspil** |
+| **Metadata, API & Services** | **Design & Kartografi** | **Kreativitet** |
+{:.stretch-table}
 <span class="dashicons dashicons-star-filled"></span>
 </center>  
 
