@@ -10,6 +10,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 
 &#11242;
+u+2605;
 
 ||
 |:----------|
