@@ -4,9 +4,9 @@ title: Jack Andersen
 sitemap: false
 ---
 ### Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
+Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
-Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE**🗺️ og **WISE**🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter⚙️, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
+Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 ## 🎓 Uddannelse
 <!---#https://shields.io/--->
@@ -16,8 +16,8 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 ## 👔 Karriere
 | Ansættelser | Stillinger |
-|-----------:|:-----------|
-| Erhvervsstyrelsen [2018 ----> ] | [2018 ----> ] **Application Manager** |
+|----------:|:----------|
+| Erhvervsstyrelsen [2018 ---->] | [2018 ---->] **Application Manager** |
 | Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
 | Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
