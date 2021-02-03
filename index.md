@@ -11,7 +11,7 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 
 | Gymnasie - 2007 \ 2010 | Værnepligtig - 2011 | Landindspektør - 2011 \ 2016 |
 |:----------:|:----------:|:----------:|
-| | |
+| | | |
 {:.stretch-table}
 
 | Ansættelser | Stillinger |
@@ -27,6 +27,7 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 |:----------:|:----------:|:----------:|
 | **Geografisk Analyse**  <br> **Dataminfrastruktur & INSPIRE** <br> **Metadata, API & Services** | **Database** <br> **Udvikling & kode** <br> **Design & Kartografi** | **Lederevne** <br> **Sammenspil** <br> **Kreativitet** |
 {:.stretch-table}
+
 ```sequence
 Alice->Bob: Hello Bob, how are you?
 Note right of Bob: Bob thinks
@@ -34,9 +35,11 @@ Bob-->Alice: I am good thanks!
 Note left of Alice: Alice responds
 Alice->Bob: Where have you been?
 ```
+
 | Nytænkning af data | Mekanik & Motorcykler | Elektronik, Arduino, Robotter & Raspberry Pi | Friluftliv, Cykler & Jagt | CAD, Design, 3D Print & CNC | Litteratur & Brætspil |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | | | | | | |
+{:.stretch-table}
 
 [documentation]: docs/README.md
 [install]: docs/install.md
