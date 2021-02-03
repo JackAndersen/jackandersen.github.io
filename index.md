@@ -8,6 +8,11 @@ Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik🌍. Jeg er ny
 Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE**🗺️ og **WISE**🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter⚙️, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
+<!---#https://shields.io/--->
+![](https://img.shields.io/badge/appveyor-Gymnasie_2007_\\\_2010-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)$$\xrightarrow$$
+![](https://img.shields.io/badge/appveyor-Værnepligtig_2011-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)$$\xrightarrow$$
+![](https://img.shields.io/badge/appveyor-Landindspektør_2011_\\\_2016-informational?style=for-the-badge&logo=appveyor&logoColor=white&color=blue)
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -31,9 +36,9 @@ $$\bigstar$$
 
 ||
 |:----------|
-| Landindspektør - 2011 \ 2016 :star: :star: :star: :star:|
-| Gymnasie - 2007 \ 2010 :star:| 
-| Værnepligtig - 2011 :star:|
+|  :star: :star: :star: :star:|
+|  :star:| 
+| :star:|
 {:.stretch-table}
 
 ![Full-width image](/assets/img/logo/klip_wisecloud.png){:.lead width="800" height="100" loading="lazy"}
@@ -56,14 +61,6 @@ $$\bigstar$$
 |:----------:|:----------:|:----------:|
 | **Geografisk Analyse** :star: :star: :star: <br> **Dataminfrastruktur & INSPIRE** :star: <br> **Metadata, API & Services** :star: :star: | **Database** <br> **Udvikling & kode** <br> **Design & Kartografi** | **Lederevne** <br> **Sammenspil** <br> **Kreativitet** |
 {:.stretch-table}
-
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Note left of Alice: Alice responds
-Alice->Bob: Where have you been?
-```
 
 | Nytænkning af data | Mekanik & Motorcykler | Elektronik, Arduino, Robotter & Raspberry Pi | Friluftliv, Cykler & Jagt | CAD, Design, 3D Print & CNC | Litteratur & Brætspil |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
