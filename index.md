@@ -9,8 +9,8 @@ Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** og **WISE**. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter, herunder har jeg primært arbejdet på IT-sikkerhedssystemet **Sector9**. 
 Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 
-&#11242;
-u+2605;
+Lorem ipsum $$ f(x) = x^2 $$.
+
 
 ||
 |:----------|
