@@ -27,18 +27,16 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 |:----------:|:----------:|:----------:|
 | **Geografisk Analyse**  <br> **Dataminfrastruktur & INSPIRE** <br> **Metadata, API & Services** | **Database** <br> **Udvikling & kode** <br> **Design & Kartografi** | **Lederevne** <br> **Sammenspil** <br> **Kreativitet** |
 {:.stretch-table}
-
-Nytænkning af data
-
-Mekanik & Motorcykler
-
-Elektronik, Arduino, Robotter & Raspberry Pi
-
-Friluftliv, Cykler & Jagt
-
-CAD, Design, 3D Print & CNC
-
-Litteratur & Brætspil
+```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+Note left of Alice: Alice responds
+Alice->Bob: Where have you been?
+```
+| Nytænkning af data | Mekanik & Motorcykler | Elektronik, Arduino, Robotter & Raspberry Pi | Friluftliv, Cykler & Jagt | CAD, Design, 3D Print & CNC | Litteratur & Brætspil |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| | | | | | |
 
 [documentation]: docs/README.md
 [install]: docs/install.md
