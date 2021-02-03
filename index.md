@@ -48,7 +48,6 @@ Alice->Bob: Where have you been?
 
 <div id="primary" class="content-area">
    <main id="main" class="site-main full-width" role="main">
-      <div class="intro"> Jeg er <b>Jack</b>, uddannet Landinspektør med speciale i GeoInformatik, super nysgerrig af natur og med interesser indenfor teknik, elektronik og "visuelle" data. Siden her er bl.a. ment som <b>Min forside</b>, men samtidigt som en udadvendt kanal / portfolio, både personligt og fagligt. <b>CV, Info &amp; Sociale kanaler</b> findes i menuen oppe til <b>venstre</b> ⇱ <br> <br></div>
       <div class="grid">
          <br>
          <div class="timeline-bar"></div>
