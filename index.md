@@ -19,17 +19,18 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ## 👔 Karriere
 
 | Ansættelser | Stillinger |
-|-:|-|
-| Erhvervsstyrelsen [2018 ---->] | [2018 ---->] **Application Manager** |
+|-:|:-|
+| Erhvervsstyrelsen [2018 - 202+] | [2018 - 202+] **Application Manager** |
 | Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
 | Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
 | HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 {:.stretch-table}
+
 ---
  
 <p>
-  <img width="250" align='left' src="https://www.thesprucepets.com/thmb/COdGzNriu8oQVi8igXmSzFzXTRk=/2109x2109/smart/filters:no_upscale()/puppy-samoyed-boy-990077480-5c89719646e0fb00012c67e8.jpg?raw=true">
+  <img width="250" align='left' src="/assets/img/misc/hlm-768x432.jpg?raw=true">
 </p>
  
 ### Catch21
@@ -39,7 +40,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  ---
 
 <p>
-  <img width="250" align='right' src="https://www.thesprucepets.com/thmb/COdGzNriu8oQVi8igXmSzFzXTRk=/2109x2109/smart/filters:no_upscale()/puppy-samoyed-boy-990077480-5c89719646e0fb00012c67e8.jpg?raw=true">
+  <img width="300" align='right' src="https://www.thesprucepets.com/thmb/COdGzNriu8oQVi8igXmSzFzXTRk=/2109x2109/smart/filters:no_upscale()/puppy-samoyed-boy-990077480-5c89719646e0fb00012c67e8.jpg?raw=true">
 </p>
 
 | Erfaring | Faglighed | Personlighed |
