@@ -6,7 +6,7 @@ sitemap: false
 
 ### Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p>
-  <img width="200" align='right' src="/assets/img/misc/LScompare10_crop.png?raw=true">
+  <img width="220" align='right' src="/assets/img/misc/LScompare10_crop.png?raw=true">
 </p>
 Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
