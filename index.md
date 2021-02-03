@@ -10,12 +10,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 
 | Gymnasie - 2007 \ 2010 | Værnepligtig - 2011 | Landindspektør - 2011 \ 2016 |
-|:---------------:|:---------------:|:---------------:|
-
-
-
-
-
+|:----------------------:|:-------------------:|:----------------------------:|
   
 | Ansættelser | Stillinger |
 |----------------:|:-----------|
@@ -24,28 +19,14 @@ Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen ⇱
 | Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
 | HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
+{:.stretch-table}
 
-Erfaring
-
-  
-** Geografisk Analyse**   
-** Dataminfrastruktur & INSPIRE**   
-** Metadata, API & Services**
-
-Faglighed
-
-  
-** Database**   
-** Udvikling & kode**   
-** Design & Kartografi**
-
-Personlighed
-
-  
-** Lederevne**   
-** Sammenspil**   
-** Kreativitet**
-
+|             Erfaring             |        Faglighed        |   Personlighed  |
+|:--------------------------------:|:-----------------------:|:---------------:|
+|      **Geografisk Analyse**      |       **Database**      |  **Lederevne**  |
+| **Dataminfrastruktur & INSPIRE** |   **Udvikling & kode**  |  **Sammenspil** |
+|   **Metadata, API & Services**   | **Design & Kartografi** | **Kreativitet** |
+<span class="dashicons dashicons-star-filled"></span>
   
 
 Nytænkning af data
