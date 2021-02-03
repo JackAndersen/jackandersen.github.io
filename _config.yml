@@ -20,7 +20,7 @@
 lang:                  DK
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Jack Andersen
+title:                 Jack Andersen
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
