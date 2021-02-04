@@ -49,18 +49,18 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ## 🏕️ Interesser
 
 ~~~html
-├── Data/ <br>
-│   └── Leg og Nytænkning/ <br>
-├── Elektronik/ <br>
-│   ├── Arduino & Raspberry Pi/ <br>
-│   └── CAD, Design, 3D Print/ <br>
-├── Mekanik & Motorcykler/ <br>
-│   └── Robotter & CNC/ <br>
-├── Friluftliv/ <br>
-│   ├── Cykler/ <br>
-│   └── Jagt/ <br>
-└── Litteratur & Brætspil/ <br>
-    └── Hygge/ <br>
+├── Data/
+│   └── Leg og Nytænkning/
+├── Elektronik/
+│   ├── Arduino & Raspberry Pi/
+│   └── CAD, Design, 3D Print/
+├── Mekanik & Motorcykler/
+│   └── Robotter & CNC/
+├── Friluftliv/
+│   ├── Cykler/
+│   └── Jagt/
+└── Litteratur & Brætspil/
+    └── Hygge/
 ~~~
 
 ---
