@@ -12,6 +12,10 @@ buttons:
   pdf: /assets/Resume.pdf
   #vcf: http://h2vx.com/vcf/<!--url-->
   #json: /assets/resume.json
+  
+no_language_icon: false
+no_skill_icon: false
+ 
 resume:
 basics:
   name: "Jack Andersen"
