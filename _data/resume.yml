@@ -6,6 +6,20 @@
 layout: resume
 title: Resume
 description: Jacks resume for search engines.
+hide_description: true
+
+left_column:
+ - work
+ - volunteer
+ - education
+ - awards
+ - publications
+ - references
+ 
+right_column:
+- languages
+- skills
+- interests
 
 buttons:
   print: true
