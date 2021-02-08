@@ -20,6 +20,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
   <br>
   <br>
   <br>
+  <br>
 </div>
 
 --- 
