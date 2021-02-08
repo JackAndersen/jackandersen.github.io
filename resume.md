@@ -1,9 +1,8 @@
 ---
 layout: resume
-title: Résumé*
+title: CV*
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  You'll probably want to modify it in `resume.md`, and maybe set `hide_description` to `true` in the front matter.
+  Jacks CV for search engines.
 hide_description: true
 left_column:
   - work
@@ -16,6 +15,11 @@ right_column:
   - languages
   - skills
   - interests
+buttons:
+  print: true
+  pdf: /assets/Resume.pdf
+  #vcf: http://h2vx.com/vcf/<!--url-->
+  #json: /assets/resume.json
 no_language_icons: false
 no_skill_icons: false
 no_buttons: false
