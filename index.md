@@ -11,7 +11,9 @@ sitemap: false
 Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data 🧙.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
-
+<p>
+  <img width="230" align='left' src="/assets/img/NST/dk_artsfund.png?raw=true">
+</p>
 ---
 
 ## 🎓 Uddannelse
@@ -32,7 +34,9 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
 | HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
 {:.stretch-table}
-
+<p>
+  <img width="230" align='right' src="/assets/img/NST/dk_artsfund.png?raw=true">
+</p>
 ---
  
 ## ⭐ Færdigheder
