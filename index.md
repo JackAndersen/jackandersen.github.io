@@ -12,9 +12,9 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 <p>
   <img width="230" align='left' src="/assets/img/misc/LScompare10_crop.png?raw=true">
-  <br>
   <img width="230" align='right' src="/assets/img/nst/dk_artsfund.png?raw=true">
 </p>
+<br>
 ---
 
 ## 🎓 Uddannelse
