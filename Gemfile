@@ -14,8 +14,8 @@ gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 gem "jekyll", "~> 3.8"
 
 group :jekyll_plugins do
-  gem "github-pages", group: :jekyll_plugins
-  gem "jekyll-include-cache", group: :jekyll_plugins
+  gem "github-pages"
+  gem "jekyll-include-cache"
   gem "jekyll-compose"
 end
 
