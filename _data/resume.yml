@@ -3,34 +3,6 @@
 # See also: <https://jsonresume.org/>.
 #<!Jeg er Jack Andersen, denne side er min udadvendte kanal. Jeg skriver om mine interesser, min karriere og andre spændende ting som 3D print, kartografi, programmering og mekanik. Du kan komme i kontakt med mig igennem de nedenstående kanaler, som også er opsat som direkte links i menuen til venstre. Ønsker du adgang til mit CV findes det i samme menu sammen med nogle af mine publikationer. Der er muligvis en videnskabelig artikel på vej til <a href="https://www.nature.com/ngeo/" target="_blank" rel="noopener">Geoscience Magazine</a> som jeg får publiceret på opfordring af <a href="https://ec.europa.eu/jrc/en" target="_blank" rel="noopener">JRC (Joint Research Centre)</a>,  en organisation under <a href="https://ec.europa.eu/commission/index_da" target="_blank" rel="noopener">Den Europæiske Kommision</a>.
 #Welcome to WiseCloud the home of Jack Andersen, this site is meant as a way for me to write about my interests, my professional career and other fascinating projects that I am a part of. If you want to reach me, the best way is to connect though any of these platforms:>
-layout: resume
-title: Resume
-description: Jacks resume for search engines.
-hide_description: true
-
-left_column:
- - work
- - volunteer
- - education
- - awards
- - publications
- - references
- 
-right_column:
-- languages
-- skills
-- interests
-
-buttons:
-  print: true
-  pdf: /assets/Resume.pdf
-  #vcf: http://h2vx.com/vcf/<!--url-->
-  #json: /assets/resume.json
-  
-no_language_icon: false
-no_skill_icon: false
- 
-resume:
 basics:
   name: "Jack Andersen"
   label: "Landinspektør"
