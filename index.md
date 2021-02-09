@@ -13,7 +13,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 <div>
   <img width="230" align='left' src="/assets/img/misc/LScompare10_crop.png?raw=true">
   <img width="250" align='left' src="/assets/img/nst/dk_artsfund.png?raw=true">
-  <img height="210" align='left' src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true">
+  <img width="150" align='left' src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true">
   <br>
   <br>
   <br>
