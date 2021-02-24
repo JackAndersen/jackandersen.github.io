@@ -165,11 +165,11 @@ education:
     #courses:
     #- ""
       
-#awards:
-#  - title: "Digital Compression Pioneer Award"
-#    date: "2014-11-01"
-#    awarder: "Techcrunch"
-#   summary: "There is no spoon."
+awards:
+  - title: "Projektleder uddannelse 2020"
+    date: "2020-06-01"
+    awarder: "Implement consulting group"
+    summary: "https://implementconsultinggroup.com/generel-projektledelse/"
 
 publications:
   - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
@@ -231,6 +231,7 @@ languages:
     fluency: "Native speaker"
   - language: "English"
     fluency: "Full professional proficiency"
+
 interests:
   - name: "Natur, friluftliv og jagt"
     #keywords:
@@ -243,6 +244,7 @@ interests:
   - name: "Teknik og mekanik og motorcykler"
     #keywords:
     #  - "Motorcykel"
+
 references:
   - name: "Morten Kildevang Jensen - Digitaliseringschef Miljøstyrelsen"
     reference: >
