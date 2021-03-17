@@ -24,8 +24,8 @@
         {% capture company %}{% include components/link.html title=work.company href=work.website class=company_class span_class="bc" property="sameAs" %}{% endcapture %}
         {{ strings.resume.work_title
           | default:"<!--position--> at <!--company-->"
-          | replace:"<!--position-->", position
-          | replace:"<!--company-->", company
+          | replace:"<!--position-->", stilling<!--position-->
+          | replace:"<!--company-->", virksomhed<!-- company-->
         }}
       </h3>
     </header>
