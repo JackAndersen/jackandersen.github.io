@@ -2,13 +2,13 @@
   content: "{{ site.data.strings.note | default:'Note' }}";
 }
 .page > header > .note-sm:before {
-  content: "{{ site.data.strings.description | default:'Description' }}";
+  content: "{{ site.data.strings.description | default:'DEFDescription' }}";
 }
 #markdown-toc:before {
-  content: "{{ site.data.strings.toc | default:'Table of Contents' }}";
+  content: "{{ site.data.strings.toc | default:'HIJTable of Contents' }}";
 }
 .layout-resume .note-sm:before {
-  content: "{{ site.data.strings.resume.summary | default:'Summary' }}";
+  content: "{{ site.data.strings.resume.summary | default:'ABCSummary' }}";
 }
 
 {% if site.hydejack.no_page_style %}
