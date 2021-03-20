@@ -11,9 +11,9 @@ Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 <div>
-  <img width="230" align='left' src="/assets/img/misc/LScompare10_crop.png?raw=true">
-  <img width="250" align='left' src="/assets/img/nst/dk_artsfund.png?raw=true">
-  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="150" align='left' src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true">
+  <img width="230" align='left' src="/jack_assets/img/misc/LScompare10_crop.png?raw=true">
+  <img width="250" align='left' src="/jack_assets/img/nst/dk_artsfund.png?raw=true">
+  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/jack_assets/img/nst/Layout_1_7_samlet-3.png"><img width="150" align='left' src="/jack_assets/img/nst/Layout_1_7_samlet-3.png?raw=true">
   </a>
   <br>
   <br>
@@ -81,7 +81,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ### Publikationer
 
 <p>
-  <a href="https://projekter.aau.dk/projekter/en/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"><img width="250" align='left' src="/assets/img/misc/frontpage.png?raw=true">
+  <a href="https://projekter.aau.dk/projekter/en/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"><img width="250" align='left' src="/jack_assets/img/misc/frontpage.png?raw=true">
   </a>
 </p>
   
