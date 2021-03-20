@@ -17,7 +17,7 @@ right_column:
   - interests
 buttons:
   print: true
-  pdf: /assets/resume.pdf
+  pdf: /jack_assets/resume.pdf
   #vcf: http://h2vx.com/vcf/<!--url-->
   #json: /assets/resume.json
 no_language_icons: false
