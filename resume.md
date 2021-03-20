@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: CV*
+title: CV
 description: >
   Jacks CV for search engines.
 hide_description: true
