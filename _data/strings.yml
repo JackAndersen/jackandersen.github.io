@@ -118,7 +118,7 @@ welcome:
   more_projects:       See <!--projects_title--> for more
   more_posts:          See <!--posts_title--> for more
 
-resume:                CV
+resume:
   location:            Lokation
   location_separator:  ', '
   email:               Email
