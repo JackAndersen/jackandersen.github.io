@@ -17,7 +17,7 @@
           {% include components/from-to.html from=work.startDate to=work.endDate format=from_to_format %}
         </p>
       {% endif %}
-      <h3 class="h4 faded">abcdef
+      <h3 class="h4 faded">
         <meta property="name" content="{{ work.company }}"/>
         {% capture position %}<span class="bc">{{ work.position }}</span>{% endcapture %}
         {% capture company_class %}{% if work.endDate.size > 0 %}{% else %}org p-org h-card{% endif %}{% endcapture %}
