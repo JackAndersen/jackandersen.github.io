@@ -1,14 +1,14 @@
 .note:before {
-  content: "{{ site.data.strings.note | default:'Note' }}";
+  content: "{{ site.data.strings.note | default:'lmnNote' }}";
 }
 .page > header > .note-sm:before {
-  content: "{{ site.data.strings.description | default:'Description' }}";
+  content: "{{ site.data.strings.description | default:'hijDescription' }}";
 }
 #markdown-toc:before {
-  content: "{{ site.data.strings.toc | default:'Table of Contents' }}";
+  content: "{{ site.data.strings.toc | default:'Tdefable of Contents' }}";
 }
 .layout-resume .note-sm:before {
-  content: "{{ site.data.strings.resume.summary | default:'Summary' }}";
+  content: "{{ site.data.strings.resume.summary | default:'abcSummary' }}";
 }
 
 {% if site.hydejack.no_page_style %}
