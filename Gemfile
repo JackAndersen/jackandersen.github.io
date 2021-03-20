@@ -11,7 +11,7 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
 
-gem "jekyll"#, "~> 3.8"
+gem "jekyll", "~> 4.1"
 
 group :jekyll_plugins do
   gem "github-pages"
