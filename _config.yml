@@ -17,19 +17,18 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  da_dk
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Jack Andersen
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Landinspektør med speciale i GeoInformatik. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Landinspektør med speciale i GeoInformatik
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,39 +36,39 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo/cropped-wcloudcircle-150x150.png #assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Jack> <Andersen>
+  email:               <Jack@wisecloud.dk>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Projecter
+#    url:               /projects/
+  - title:             CV
     url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+#legal:
+#  - title:             LICENSE
+#    url:               /LICENSE/
+#  - title:             NOTICE
+#    url:               /NOTICE/
+#  - title:             CHANGELOG
+#    url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2021 #. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -82,15 +81,15 @@ paginate_path:         /blog/:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9.1.1
 
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/sidebar-bg2c-min.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -134,7 +133,6 @@ defaults:
   - scope:
       path:            licenses/
     values:
-      layout:          plain
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
@@ -211,7 +209,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -244,9 +242,6 @@ hydejack:
   # This only affects the meta tag, not the color specified in the app manifest.
   no_theme_color:      false
 
-  # Disable the breadcrumbs above the title
-  no_breadcrumbs:      false
-
   # Set to `true` when building with the `--lsi` option
   use_lsi:             true
 
@@ -262,9 +257,6 @@ hydejack:
   # Frequent consumers of online content will know that nothing devalues a post like
   # seeing an old date. 
   hide_dates:          false
-
-  # TODO
-  hide_last_modified:  false
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
@@ -283,7 +275,7 @@ hydejack:
   # Only use if you know what Service Workers are and how they can impact your site!
   offline:
     enabled:           false
-    cache_version:     13
+    cache_version:     7
     precache_assets:
       - /assets/img/swipe.svg
 
@@ -313,7 +305,6 @@ exclude:
   - ./#jekyll-theme-hydejack/.git
   - .jekyll-cache
   - .sass-cache
-  - '*.toml'
   - vendor
   - Gemfile
   - Gemfile.lock

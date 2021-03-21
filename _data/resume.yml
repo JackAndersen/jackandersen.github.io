@@ -1,103 +1,266 @@
 # If you have a `resume.json` file, copy it into `_data` and delete this file.
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
+#<!Jeg er Jack Andersen, denne side er min udadvendte kanal. Jeg skriver om mine interesser, min karriere og andre spændende ting som 3D print, kartografi, programmering og mekanik. Du kan komme i kontakt med mig igennem de nedenstående kanaler, som også er opsat som direkte links i menuen til venstre. Ønsker du adgang til mit CV findes det i samme menu sammen med nogle af mine publikationer. Der er muligvis en videnskabelig artikel på vej til <a href="https://www.nature.com/ngeo/" target="_blank" rel="noopener">Geoscience Magazine</a> som jeg får publiceret på opfordring af <a href="https://ec.europa.eu/jrc/en" target="_blank" rel="noopener">JRC (Joint Research Centre)</a>,  en organisation under <a href="https://ec.europa.eu/commission/index_da" target="_blank" rel="noopener">Den Europæiske Kommision</a>.
+#Welcome to WiseCloud the home of Jack Andersen, this site is meant as a way for me to write about my interests, my professional career and other fascinating projects that I am a part of. If you want to reach me, the best way is to connect though any of these platforms:>
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://placehold.it/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Jack Andersen"
+  label: "Landinspektør"
+  picture: /assets/img/jack/cropped-Jack-4lillekvadrat.png
+  email: "Jack@wisecloud.dk"
+  #phone: "+45 26707811"
+  #website: "https://piedpiper.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Jeg er vokset op  i Nordsjælland og bor i dag, i København sammen med min kæreste, Sofie og hunden Allie.
+    I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, Mit afgangsspeciale er linket længere nede og kan også findes i AAU's projektbibliotek.
+    Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette kan også afspejles i min tid som landmålder hvor grundprincippet og er virkeliggørelse af data.
+    Jeg er super nysgerrig af natur og har brede interesser inden for IT, teknik, elektronik og "visuelle" data. Jeg har stor fokus på forretningsunderstøttende systemer og adgang til data. 
+    I mit tidligere job, var jeg en stor del af flere større pilot- og udviklingsprojekter, som skal give borgere, myndigheder og EU bedre og nemmere adgang til Miljødata. 
+    Kort sagt har jeg løbende dialog med forretningen, eksterne konsulenter, systemudviklere og teknikere, og forstår at formidle de mange synspunkter og teknikaliteter. 
+    Pragmatikkeren det er mig, jeg er enormt løsningsorienteret og kan bidrage med dybdegående tekniske indsigt i flere teknologier og systemer.
+    Min hjørnesten er at forstå det jeg formidler, jeg er altid glad for at lære nyt og betragter mig selv som højt motiveret og selvstændig, det giver tidligere arbejdsgivere mig ret i.
+    I dag arbejder jeg i Erhvervsstyrelsen, hvor jeg projektliggør IT-vedligehold efter SCRUM og SaFe modellerne. Samtidigt styrer jeg IT-udviklingen på en af breddest anvende offentlige IT-Sikkerhedsløsninger, Sector9.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    #address: "2712 Broadway St"
+    #postalCode: "CA 94115"
+    city: "København"
+    countryCode: "DK"
+    region: "Hovedstaden"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+    #- network: "Twitter"
+    #  username: "RHendricksCEO"
+    #  url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Jack Andersen"
+      url: "https://www.linkedin.com/in/j-andersen/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Erhvervsstyrelsen -IT og Digital kommunikation"
+    position: "Application Manager"
+    website: "https://erst.dk"
+    startDate: "2018-09-15"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      I Erhvervsstyrelsens systemportefølje er jeg ansvarlig for projektledelsen af IT-sikkerhedskomponenten Sector9.
+      Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. jeg udøver den 
+      praktiske daglige leverandør- og konsulent styring, planlægger, prioriterer, dokumenterer og beskriver opgaver på kort og lang sigt.
+      Sector9 tjekker ind i flere større fællesoffentlige projekter som MitID og NemLog-in3, her koordinerer jeg indsatsen for Erhvervsstyrelsen.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+      - "Administrerer Sector9 udvikling og features"
+      - "Koordinerer teknisk MitID og NemLog-in3 implementeringen"
+
+  - company: "Overført til Miljøstyrelsen - Organisation & Digitalisering"
+    position: "Geodata specialist"
+    website: "https://mst.dk"
+    startDate: "2017-02-01"
+    endDate: "2018-09-15"
+    summary: >
+      Mange af mine opgaver flyttede fra SVANA og NST da de to styrelser blev samlet til SVANA og herefter til Miljøstyrelsen, derfor var min dagligdag uforandret. 
+      Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, hermed flere automatiske dataudtræk og analyser på eksempelvis 
+      erhvervs og virksomhedsdata fra VIRK APIet. Samtidigt er jeg teknisk ansvarlig på de projekter der omhandler integrering af flere Remote sensing data fra droner 
+      (sejlende og flyvende) samt satellitter under bl.a. EU’s Copernicus program. Mine projekt rettede opgaver har været meget database tekniske da vi har krav fra 
+      både fagområder, offentliggørelsen af data i DK og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Nye metoder og teknologi i overvågningen"
+      - "WISE - Water Information System Europe"
+     
+  - company: "Overført til Styrelsen for Vand- og Naturformidling (SVANA) - Digitalisering"
+    position: "Geodata specialist"
+    website: "https://svana.dk"
+    startDate: "2016-07-01"
+    endDate: "2017-02-01"
+    summary: >
+      Mine opgaver flyttede fra Naturstyrelsen, derfor var min dagligdag næsten uforandret. Dog fik jeg et mere datadrevet fokus, hvor jeg bl.a. fik mere ansvar 
+      indenfor INSPIRE forordningen og datamodellering ved HALE og FME.
+    highlights:
+      - "INSPIRE  EU Spatial Data Infrastructure"
+      
+  - company: "Naturstyrelsen - Digitalisering"
+    position: "GIS medarbejder"
+    website: "https://nst.dk"
+    startDate: "2016-06-15"
+    endDate: "2016-07-01"
+    summary: >
+      Udarbejdelse af tekniske analyser, svar på “spørgsmål fra ministeren”, bistand til tekniske analyser hos Danmarks Miljøportal. EU datamodellør og “data reporter” 
+      på overflade- og grundvand. Teknisk vejleder ifm. indkøb og set-up af måle-udstyr, droner, satellitdata, servere, hardware, data storage og machine learning algoritmer 
+      til brug i forbindelse med pilot projekter, der omhandler indførelse af nye metoder og teknologier til overvågning af dyrebestande, auto klassificering af naturtyper 
+      og automatisk indsamling af vandprøver mm. Jeg er systemansvarlig og udvikler på vores ArcGIS C# baserede kortskab , hvor jeg vedligeholder databasen og koder 
+      tilføjelser og rettelser. Herudover har jeg også ansvaret for vores web baserede metadata administrationssystem og tilhørende PostgreSQL database. Samtidigt er jeg 
+      teknisk vejleder for vores kommende overfladevand-database og har desuden opstillet vores Geodata topologi regler for vores EU indberetninger af både overflade- og 
+      grundvand som rapporteres både som Access database , XML og GML. 
+    highlights:
+      - "Facilitator Ministriel GIS Arbejdsgruppe"
+      
+  - company: "Naturstyrelsen - IT & Data"
+    position: "Praktikant og Studentermedhjælp"
+    website: "https://nst.dk"
+    startDate: "2015-09-01"
+    endDate: "2016-06-15"
+    summary: >
+     Mit 3.semester Cand. Geom uddanelsen tilbragte jeg i Naturstyrelsen, hvor jeg arbejdede med naturskovsomlægnngsprojekter. Som del af mit praktikophold bistod jeg flere 
+     fagområder og projekter med geografiske analyser og teknisk bistand. Samtidigt skrev jeg rapport om omlægning til Naturskov med udgangspunkt i et dataperspektiv, denne 
+     overgang blev senere igangsat i 2018.
+     Efter praktikforløbet hos Naturstyrelsen begyndte jeg på mit Speciale. Mit job hos HLM a/s tog for mange timer herunder en del tid bag rattet. Jeg satte min stilling i bero 
+     men valgte et par måneder senere at i HLM a/s og fortsætte i Naturstyrelsen hvor jeg havde mere forudsigelige arbejdstider.
+    highlights:
+      - "Rapport - Naturskovomlægning"
+      
+  - company: "HLM a/s"
+    position: "Assisterende Landinspektør - Deltid 16-20t / uge"
+    website: "https://hlm.as"
+    startDate: "2013-04-01"
+    endDate: "2016-04-01"
+    summary: >
+      Datahåndtering og Teknisk Landmåling ved bl.a. Metroen, Nordhavnstunnelen, CIS Nordhavn, Nordhavn siloerne, Axel Towers, Monitering af jernbaner, Carlsberg Station og udvidelsen af 
+      Køge bugt motorvejen med mange flere. Jeg har været på mere end 100 projekter og byggepladser i min tid hos HLM. Det kræver solid indsigt og forståelse for mange situationer og 
+      byggeteknikker at kunne assistere med landmåling på så divers en arbejdsplads.
+    highlights:
+      - "Selvkørende Landmåler med egen bil og udstyr på deltid"
+      
+#volunteer:
+#  - organization: "CoderDojo"
+#    position: "Teacher"
+#    website: "https://coderdojo.com/"
+#    startDate: "2012-01-01"
+#    endDate: "2013-01-01"
+#    summary: "Global movement of free coding clubs for young people."
+#    highlights:
+#      - "Awarded 'Teacher of the Month'"
+
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "Aalborg Universitet, Institut for Planlægning"
+    area: "Landinspektør Cand. Geom"
+    studyType: "Kandidat"
+    startDate: "2014-09-01"
+    endDate: "2016-06-15"
+    gpa: "11.0"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - "Kandidatspeciale \\ Master’s Thesis - 'Erosion risk mapping, using high resolution topographic data in RUSLE'"
+      - "Praktikforløb \\ Naturstyrelsen - 'Naturskovomlægning'"
+      - "GI – Integration, Applications and Society -'The Bruun Rule implemented in coastal recession analysis'"
+      - "GI Technology and Information Systems - 'Visualising BBR data using web technologies'"
+      
+  - institution: "Aalborg Universitet, Institut for Planlægning"
+    area: "Landinspektør Bsc. Geom"
+    studyType: "Bachelor"
+    startDate: "2011-09-01"
+    endDate: "2014-09-01"
+    gpa: "8.0"
+    courses:
+     - "Bachelorprojekt i ejendomsdannelse"
+     - "Kortlægning og afsætning"
+     - "Detaljeret opmåling"
+     - "Det åbne lands planlægning og arealforvaltning"
+     - "Byernes planlægning og arealforvaltning"
+     - "Fast ejendom og udvikling af det bebyggede miljø"
+     - "Geografisk information – steder, data og modeller"
+     
+  - institution: "HTX Hillerød"
+    area: "IT & Matematik"
+    studyType: "Ungdomsuddannelse"
+    startDate: "2007-09-01"
+    endDate: "2010-06-01"
+    #gpa: "8.0"
+    #courses:
+    #- ""
+      
 awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+  - title: "Projektleder uddannelse 2020"
+    date: "2020-06-01"
+    awarder: "Implement consulting group"
+    summary: "https://implementconsultinggroup.com/generel-projektledelse/"
+
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
+    publisher: "Jack Andersen AAU"
+    releaseDate: "2016-06-08"
+    website: "https://projekter.aau.dk/projekter/da/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"
+    summary: "With a focus on computation and statistics within the GeoInformatics field, this project seeks to provide an understanding of technical geographic modelling. This is accomplished by using several different algorithms combined with Map algebra. The output of this model is used for comparative analysis against a pan-european dataset created by the JRC."
+
+#3/3, Master, Expert, Senior, Professional
+#2/3, Intermediate, Advanced, Amateur	
+#1/3, Beginner, Novice, Junior
+#0/3, No proficiency
+
+#5/5, Native or bilingual proficiency, Native speaker
+#4/5, Full professional proficiency
+#3/5, Professional working proficiency
+#2/5, Limited working proficiency
+#1/5, Elementary proficiency
+#0/5, No proficiency
 skills:
-  - name: "Web Development"
+  - name: "Geographic Analysis"
     level: "Master"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "ArcGIS"
+      - "QGIS"
+      - "MapInfo"
+      - "HALE"
+      - "FME"
+      - "PostGIS"
+  - name: "Surveying and Engineering"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Leica Instruments"
+      - "AutoCAD Civil 3D"
+      - "AutoCAD Inventor"
+      - "Fusion 360"
+      - "Rhino 3D"
+      - "SolidWorks"
+      - "Blender"
+  - name: "Data modeling"
+    level: "Master"
+    keywords:
+      - "Database management"
+      - "Data transformation"
+      - "ISO"
+      - "INSPIRE"
+      - "WISE"
+      - "and other Standards"
+      - "Linked data"
+  - name: "Information Technology"
+    level: "Intermediate"
+    keywords:
+      - "DBMS"
+      - "Webtechnologies"
+      - "Py scripting"
+      
 languages:
-  - language: "English"
+  - language: "Dansk"
     fluency: "Native speaker"
+  - language: "English"
+    fluency: "Full professional proficiency"
+
 interests:
-  - name: "Wildlife"
+  - name: "Natur, friluftliv og jagt"
+    #keywords:
+    #  - "Nature"
+  - name: "Teknologi"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "3D print"
+      - "Teknisk tegning og CAD"
+      - "Leg med data og nytænkning"
+  - name: "Teknik og mekanik og motorcykler"
+    #keywords:
+    #  - "Motorcykel"
+
 references:
-  - name: "Erlich Bachman"
+  - name: "Morten Kildevang Jensen - Digitaliseringschef Miljøstyrelsen"
     reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      Jeg har haft fornøjelsen af at være personaleleder for Jack gennem de sidste 2 år i SVANA og Miljøstyrelsen. Jack har 
+      arbejdet som specialist i styrelsens Data- og GIS teams, hvor han bl.a. har arbejdet med dataservices, distribution og 
+      modellering – ofte i relation til geografiske data. Nogle af hans primære ansvarsområder har været udvikling af 
+      løsninger i styrelsens GIS værktøjer og vejlede data tunge projekter – herunder EU rapporteringsforpligtigelser under 
+      Vandrammedirektivet. Jack ved det meste om GIS og data – og evner hurtigt at lære nye ting.
+      
+      Jack har ligeledes stor indsigt i INSPIRE direktivet og er vedligeholdelsesansvarlig for Miljøstyrelsens metadata system 
+      som er baseret på Geonetwork Open Source. Jack er analytisk stærk og logisk tænkende – og er samtidig er en super god 
+      kollega med et stærkt socialt gen, der gerne hjælper andre og deler ud af sin erfaring. Det betyder at Jack er stærkt 
+      efterspurgt i tekniske projekter og som rådgiver på forskellige opgaver på tværs af styrelsen.
+      
+      Jeg kan give Jack mine varmeste anbefalinger!
+      
+  - name: "Henning Sten Hansen - Professor, Dr. Scient. Aalborg Universitet"
+    reference: >
+      Jeg er vejleder for Jack Andersen i forbindelse med hans afsluttende speciale, og allerede på nuværende tidspunkt kan jeg meddele, at det ser meget fornuftigt ud her knapt 3 uger før aflevering.
+      Jeg kender desuden Jack fra undervisningen, og opfatter ham som en meget seriøs studerende.
+      Jeg vil derfor uden tøven påstå, at han vil bestå sin afsluttende eksamen den 17. Juni 2016, med mindre der tilstøder ham noget alvorligt - som eksempelvis pludseligt opstået sygdom eller ulykke.

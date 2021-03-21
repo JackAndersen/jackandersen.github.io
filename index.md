@@ -1,45 +1,92 @@
 ---
 layout: page
-title: Thank You!
+title: Jack Andersen
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+### Hej! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data 🧙.
+Siden her er ment som Min digitale forside, både personligt og fagligt.
+Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+<div>
+  <img width="230" align='left' src="/assets/img/misc/LScompare10_crop.png?raw=true">
+  <img width="250" align='left' src="/assets/img/nst/dk_artsfund.png?raw=true">
+  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="150" align='left' src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true">
+  </a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+--- 
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+## 🎓 Uddannelse
+<!---#https://shields.io/ https://simpleicons.org/--->
+![](https://img.shields.io/badge/HTX-Mat/IT_2007_/_2010-informational?style=flat-square&logo=Apache-Spark&logoColor=white&color=blue) $$\longrightarrow$$
+![](https://img.shields.io/badge/DAR-Værnepligtig_2011-informational?style=flat-square&logo=Acclaim&logoColor=white&color=00cc66) $$\longrightarrow$$
+![](https://img.shields.io/badge/AAU_CPH-Landindspektør_2011_/_2016-informational?style=flat-square&logo=OpenStreetMap&logoColor=white&color=ff9933)
 
+---
+ 
+## 👔 Karriere
+
+| Ansættelser | Stillinger |
+|-:|:-|
+| Erhvervsstyrelsen [2018 - 202+] | [2018 - 202+] **Application Manager** |
+| Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
+| Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
+| Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
+| HLM a/s [2013-2016] | [2013-2016] **Assisterende Landinspektør** |
+{:.stretch-table}
+
+---
+ 
+## ⭐ Færdigheder
+
+| Erfaring | Faglighed | Personlighed |
+|-|-|-|
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Geografisk_Analyse-informational?style=flat-square&logo=Facebook-Gaming&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Design_&_Kartografi-informational?style=flat-square&logo=OpenStreetMap&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐⭐-Kreativitet-informational?style=flat-square&logo=ActiGraph&logoColor=white&color=00cc66) |
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Datainfrastruktur_&_INSPIRE-informational?style=flat-square&logo=BandLab&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Database-informational?style=flat-square&logo=Blueprint&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Sammenspil-informational?style=flat-square&logo=Buy-Me-A-Coffee&logoColor=white&color=00cc66) |
+| ![](https://img.shields.io/badge/⭐⭐⭐⭐-Metadata,_API_&_Services-informational?style=flat-square&logo=Google-Maps&logoColor=white&color=blue) | ![](https://img.shields.io/badge/⭐⭐⭐-Udvikling_&_kode-informational?style=flat-square&logo=Docker&logoColor=white&color=ff9933) | ![](https://img.shields.io/badge/⭐⭐⭐⭐-Lederevne-informational?style=flat-square&logo=kubernetes&logoColor=white&color=00cc66) |
+{:.stretch-table}
+
+---
+
+## 🏕️ Interesser
+
+~~~html
+├── Data/
+│   └── Leg og Nytænkning/
+├── Elektronik/
+│   ├── Arduino & Raspberry Pi/
+│   └── CAD, Design, 3D Print/
+├── Mekanik & Motorcykler/
+│   └── Robotter & CNC/
+├── Friluftliv/
+│   ├── Cykler/
+│   └── Jagt/
+└── Litteratur & Brætspil/
+    └── Hygge/
 ~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+
+---
+
+### Publikationer
+
+<p>
+  <a href="https://projekter.aau.dk/projekter/en/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"><img width="250" align='left' src="/assets/img/misc/frontpage.png?raw=true">
+  </a>
+</p>
+  
+Jeg elsker standardiseringer og de frie data vi har her i Danmark, som kartografisk nørd er det yderst beljligt og noget jeg støtter op om. Hvis du er ny til geodata verdenen vil jeg anbefale at du kigger på [Kortforsyningen](http://download.kortforsyningen.dk), jeg ved det kan være svært at navigere i overflødigshornet "Kortforsyningen, men brug lidt tid på at lære forkortelserne og læs info teksten. Open Source er vigtigt for mig, jeg har deltaget på utallige af QGIS brugergruppe Danmarks events og bidraget med et logo design. Det er ikke alle mine arbejdsopgaver der har kunnet løses i Open Source værktøjer, men jeg er tilbøjelig til at afprøve hypotesen heri først, sejre eller fejl, før jeg tager de fat i de gængse værktøjer. Det har været en glæde at se QGIS vokse sig større over de sidste 5-6 år, og følger man med på mailing-listen vil man se antallet af participanter er steget voldsomt.
+Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligdag nemmere, der er flere IT værktøjer som de fleste overser men jeg bliver forelsket i. For nyligt prædikede jeg LaTex for min mindre IT-kyndige Juridiske Kæreste, men det fængede hende ikke helt. herefter brugte jeg flere timer på at lave det selv, jeg præsenterede for hende. Meget af min fritid bruges på diverse projekter, både digitale og fysiske. jeg har netop slebet nogle møbler ned og spraymalet dem, jeg har omlakeret min Motorcykel egenhændigt med flot resultat. Denne side er også et resultat af en weekends fiflerier.
 
 [documentation]: docs/README.md
 [install]: docs/install.md
