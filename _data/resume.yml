@@ -62,7 +62,7 @@ work:
     highlights:
       - "Nye metoder og teknologi i overvågningen"
       - "WISE - Water Information System Europe"
-     
+
   - company: "Overført til Styrelsen for Vand- og Naturformidling (SVANA) - Digitalisering"
     position: "Geodata specialist"
     website: "https://svana.dk"
@@ -73,7 +73,7 @@ work:
       indenfor INSPIRE forordningen og datamodellering ved HALE og FME.
     highlights:
       - "INSPIRE  EU Spatial Data Infrastructure"
-      
+
   - company: "Naturstyrelsen - Digitalisering"
     position: "GIS medarbejder"
     website: "https://nst.dk"
@@ -89,7 +89,7 @@ work:
       grundvand som rapporteres både som Access database , XML og GML. 
     highlights:
       - "Facilitator Ministriel GIS Arbejdsgruppe"
-      
+
   - company: "Naturstyrelsen - IT & Data"
     position: "Praktikant og Studentermedhjælp"
     website: "https://nst.dk"
@@ -103,7 +103,7 @@ work:
      men valgte et par måneder senere at i HLM a/s og fortsætte i Naturstyrelsen hvor jeg havde mere forudsigelige arbejdstider.
     highlights:
       - "Rapport - Naturskovomlægning"
-      
+
   - company: "HLM a/s"
     position: "Assisterende Landinspektør - Deltid 16-20t / uge"
     website: "https://hlm.as"
@@ -115,7 +115,7 @@ work:
       byggeteknikker at kunne assistere med landmåling på så divers en arbejdsplads.
     highlights:
       - "Selvkørende Landmåler med egen bil og udstyr på deltid"
-      
+
 #volunteer:
 #  - organization: "CoderDojo"
 #    position: "Teacher"
@@ -138,7 +138,7 @@ education:
       - "Praktikforløb \\ Naturstyrelsen - 'Naturskovomlægning'"
       - "GI – Integration, Applications and Society -'The Bruun Rule implemented in coastal recession analysis'"
       - "GI Technology and Information Systems - 'Visualising BBR data using web technologies'"
-      
+
   - institution: "Aalborg Universitet, Institut for Planlægning"
     area: "Landinspektør Bsc. Geom"
     studyType: "Bachelor"
@@ -153,7 +153,7 @@ education:
      - "Byernes planlægning og arealforvaltning"
      - "Fast ejendom og udvikling af det bebyggede miljø"
      - "Geografisk information – steder, data og modeller"
-     
+
   - institution: "HTX Hillerød"
     area: "IT & Matematik"
     studyType: "Ungdomsuddannelse"
@@ -162,7 +162,7 @@ education:
     #gpa: "8.0"
     #courses:
     #- ""
-      
+
 awards:
   - title: "Projektleder uddannelse 2020"
     date: "2020-06-01"
@@ -223,7 +223,7 @@ skills:
       - "DBMS"
       - "Webtechnologies"
       - "Py scripting"
-      
+
 languages:
   - language: "Dansk"
     fluency: "Native speaker"
