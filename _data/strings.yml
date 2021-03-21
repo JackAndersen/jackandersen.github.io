@@ -30,7 +30,7 @@ back:                  Back
 permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Templates (for web app)
-present:               nu
+present:               Nu
 toc:                   Table of Contents
 note:                  Note
 description:           Description
