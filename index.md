@@ -11,20 +11,9 @@ Siden her er ment som Min digitale forside, både personligt og fagligt.
 Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 <div>
-  <img width="250" src="/assets/img/misc/LScompare10_crop.png?raw=true">
-  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="165" src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true" style="text-align: center">
-  <img width="280" align='right' src="/assets/img/nst/dk_artsfund.png?raw=true">
-  </a>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+  <img width="250" src="/assets/img/misc/LScompare10_crop.png?raw=true" style="margin-right: 20px;">
+  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="165" src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true" style="margin-left: 20px">
+  <img width="280" src="/assets/img/nst/dk_artsfund.png?raw=true">
 </div>
 
 --- 
