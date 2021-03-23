@@ -56,13 +56,12 @@ work:
     endDate: "2018-09-15"
     summary: >
       Mange af mine opgaver flyttede fra SVANA og NST da de to styrelser blev samlet til SVANA og herefter til Miljøstyrelsen, derfor var min dagligdag uforandret. 
-      Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, hermed flere automatiske dataudtræk og analyser på eksempelvis 
-      erhvervs og virksomhedsdata fra VIRK APIet. Samtidigt er jeg teknisk ansvarlig på de projekter der omhandler integrering af flere Remote sensing data fra droner 
-      (sejlende og flyvende) samt satellitter under bl.a. EU’s Copernicus program. Mine projekt rettede opgaver har været meget database tekniske da vi har krav fra 
-      både fagområder, offentliggørelsen af data i DK og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
+      Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, flere automatiske dataudtræk og analyser. Samtidigt er jeg en stor del i de projekter som omhandler integrering af flere Remote sensing data fra droner 
+      (sejlende og flyvende) samt satellitter under bl.a. EU’s Copernicus program. Mine opgaver har været meget database tekniske da vi har krav fra 
+      både fagområder, offentliggørelsen af nye data Danmark og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
     highlights:
-      - "Nye metoder og teknologi i overvågningen"
-      - "WISE - Water Information System Europe"
+      - Projektet - "Nye metoder og teknologi i overvågningen"
+      - GIS tekniker og EU kontakt - "WISE - Water Information System Europe"
      
   - company: "Overført til Styrelsen for Vand- og Naturformidling (SVANA) - Digitalisering"
     position: "Geodata specialist"
@@ -84,9 +83,9 @@ work:
       Udarbejdelse af tekniske analyser, svar på “spørgsmål fra ministeren”, bistand til tekniske analyser hos Danmarks Miljøportal. EU datamodellør og “data reporter” 
       på overflade- og grundvand. Teknisk vejleder ifm. indkøb og set-up af måle-udstyr, droner, satellitdata, servere, hardware, data storage og machine learning algoritmer 
       til brug i forbindelse med pilot projekter, der omhandler indførelse af nye metoder og teknologier til overvågning af dyrebestande, auto klassificering af naturtyper 
-      og automatisk indsamling af vandprøver mm. Jeg er systemansvarlig og udvikler på vores ArcGIS C# baserede kortskab , hvor jeg vedligeholder databasen og koder 
-      tilføjelser og rettelser. Herudover har jeg også ansvaret for vores web baserede metadata administrationssystem og tilhørende PostgreSQL database. Samtidigt er jeg 
-      teknisk vejleder for vores kommende overfladevand-database og har desuden opstillet vores Geodata topologi regler for vores EU indberetninger af både overflade- og 
+      og automatisk indsamling af vandprøver mm. Jeg er systemansvarlig og udvikler på vores ArcGIS C# baserede kortskab , hvor jeg vedligeholder databasen og programmerer 
+      mindre nye features og rettelser. Herudover har jeg ansvaret for vores web baserede metadata administrationssystem og tilhørende PostgreSQL database. Jeg er 
+      teknisk vejleder for Naturstyrelsens kommende overfladevand-database og har desuden opstillet vores Topologiske-regler for vores EU indberetninger af både overflade- og 
       grundvand som rapporteres både som Access database , XML og GML. 
     highlights:
       - "Facilitator Ministriel GIS Arbejdsgruppe"
@@ -101,7 +100,7 @@ work:
      fagområder og projekter med geografiske analyser og teknisk bistand. Samtidigt skrev jeg rapport om omlægning til Naturskov med udgangspunkt i et dataperspektiv, denne 
      overgang blev senere igangsat i 2018.
      Efter praktikforløbet hos Naturstyrelsen begyndte jeg på mit Speciale. Mit job hos HLM a/s tog for mange timer herunder en del tid bag rattet. Jeg satte min stilling i bero 
-     men valgte et par måneder senere at i HLM a/s og fortsætte i Naturstyrelsen hvor jeg havde mere forudsigelige arbejdstider.
+     men valgte et par måneder senere at stoppe i HLM a/s og fortsætte i Naturstyrelsen hvor jeg havde mere forudsigelige arbejdstider.
     highlights:
       - "Rapport - Naturskovomlægning"
       
@@ -112,7 +111,7 @@ work:
     endDate: "2016-04-01"
     summary: >
       Datahåndtering og Teknisk Landmåling ved bl.a. Metroen, Nordhavnstunnelen, CIS Nordhavn, Nordhavn siloerne, Axel Towers, Monitering af jernbaner, Carlsberg Station og udvidelsen af 
-      Køge bugt motorvejen med mange flere. Jeg har været på mere end 100 projekter og byggepladser i min tid hos HLM. Det kræver solid indsigt og forståelse for mange situationer og 
+      Køge bugt motorvejen mfl. Jeg har været på mere end 100 projekter og byggepladser i min tid hos HLM. Det kræver solid indsigt og forståelse for mange situationer og 
       byggeteknikker at kunne assistere med landmåling på så divers en arbejdsplads.
     highlights:
       - "Selvkørende Landmåler med egen bil og udstyr på deltid"
@@ -205,7 +204,6 @@ skills:
       - "AutoCAD Civil 3D"
       - "AutoCAD Inventor"
       - "Fusion 360"
-      - "Rhino 3D"
       - "SolidWorks"
       - "Blender"
   - name: "Data modeling"
@@ -222,8 +220,7 @@ skills:
     level: "Intermediate"
     keywords:
       - "DBMS"
-      - "Webtechnologies"
-      - "Py scripting"
+      - "Python scripting"
       
 languages:
   - language: "Dansk"
