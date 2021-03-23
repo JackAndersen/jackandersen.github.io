@@ -9,7 +9,7 @@ basics:
   picture: /assets/img/jack/cropped-Jack-4lillekvadrat.png
   email: "Jack@wisecloud.dk"
   phone: "+45 26707811"
-  website: "www.Wisecloud.dk"
+  website: "http://www.Wisecloud.dk"
   summary: >
     Jeg er vokset op  i Nordsjælland og bor i dag, i København sammen med min kæreste, Sofie og hunden Allie.
     I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, mit afgangsspeciale er linket længere nede og kan også findes i AAU's projektbibliotek.
@@ -228,17 +228,21 @@ languages:
     fluency: "Full professional proficiency"
 
 interests:
-  - name: "Natur, friluftliv og jagt"
-    #keywords:
-    #  - "Nature"
-  - name: "Teknologi"
+  - name: "Data"
     keywords:
-      - "3D print"
-      - "Teknisk tegning og CAD"
-      - "Leg med data og nytænkning"
-  - name: "Teknik og mekanik og motorcykler"
-    #keywords:
-    #  - "Motorcykel"
+      - "Leg og Nytænkning"
+  - name: "Elektronik og Mekanik"
+    keywords:
+      - "Arduino & Raspberry Pi"
+      - "CAD, Design, 3D Print, Robotter & CNC"
+      - "Motorcykler"
+  - name: "Friluftliv"
+    keywords:
+      - "Cykler"
+      - "Jagt"
+  - name: "Litteratur & Brætspil"
+    keywords:
+      - "Hygge"
 
 references:
   - name: "Morten Kildevang Jensen - Digitaliseringschef Miljøstyrelsen"
