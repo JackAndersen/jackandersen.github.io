@@ -188,7 +188,7 @@ publications:
 #1/5, Elementary proficiency
 #0/5, No proficiency
 skills:
-  - name: "Geographic Analysis"
+  - name: "Geografisk Analyse"
     level: "Master"
     keywords:
       - "ArcGIS"
@@ -197,7 +197,7 @@ skills:
       - "HALE"
       - "FME"
       - "PostGIS"
-  - name: "Surveying and Engineering"
+  - name: "Landmåling og Ingeniørarbejde"
     level: "Master"
     keywords:
       - "Leica Instruments"
@@ -215,9 +215,8 @@ skills:
       - "INSPIRE"
       - "WISE"
       - "and other Standards"
-      - "Linked data"
-  - name: "Information Technology"
-    level: "Intermediate"
+  - name: "IT"
+    level: "Master"
     keywords:
       - "DBMS"
       - "Python scripting"
