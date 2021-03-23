@@ -8,18 +8,19 @@ basics:
   label: "Landinspektør"
   picture: /assets/img/jack/cropped-Jack-4lillekvadrat.png
   email: "Jack@wisecloud.dk"
-  #phone: "+45 26707811"
-  #website: "https://piedpiper.com"
+  phone: "+45 26707811"
+  website: "Wisecloud.dk"
   summary: >
     Jeg er vokset op  i Nordsjælland og bor i dag, i København sammen med min kæreste, Sofie og hunden Allie.
-    I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, Mit afgangsspeciale er linket længere nede og kan også findes i AAU's projektbibliotek.
-    Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette kan også afspejles i min tid som landmålder hvor grundprincippet og er virkeliggørelse af data.
-    Jeg er super nysgerrig af natur og har brede interesser inden for IT, teknik, elektronik og "visuelle" data. Jeg har stor fokus på forretningsunderstøttende systemer og adgang til data. 
-    I mit tidligere job, var jeg en stor del af flere større pilot- og udviklingsprojekter, som skal give borgere, myndigheder og EU bedre og nemmere adgang til Miljødata. 
-    Kort sagt har jeg løbende dialog med forretningen, eksterne konsulenter, systemudviklere og teknikere, og forstår at formidle de mange synspunkter og teknikaliteter. 
-    Pragmatikkeren det er mig, jeg er enormt løsningsorienteret og kan bidrage med dybdegående tekniske indsigt i flere teknologier og systemer.
+    I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, mit afgangsspeciale er linket længere nede og kan også findes i AAU's projektbibliotek.
+    Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette kan også afspejles i min tid som Landinspektør hvor grundprincippet er virkeliggørelse af data.
+    Jeg er super nysgerrig af natur og har brede interesser inden for IT, teknik, elektronik og "visuelle" data. Jeg har stor fokus på forretningsunderstøttende systemer og adgang til data, herunder Open Source. 
+    I mit forrige job, var jeg en væsentligt del af flere større pilot- og udviklingsprojekter inden for Geografiske data, som gav borgere, myndigheder og den Europæiske Union bedre og nemmere adgang til Danske Miljødata. Her sad jeg også som nationalt kontaktpunkt på en række specifikke data og datamodellerede med netop europæiske datamodeller. 
+    I dag forsøger jeg at samle trådende og skabe dialogen på tværs af en stor organisation med mange stakeholders. Som Application Manager administrerer jeg IT-udviklingsaktiveterne i IT-sikkerhedsløsningen Sector9.
+    Jeg har løbende dialog med forretninger, eksterne konsulenter, systemudviklere og teknikere, og jeg forstår at formidle de mange synspunkter og teknikaliteter. 
+    Pragmatikkeren det er mig, jeg er enormt løsningsorienteret og kan bidrage med dybdegående tekniske indsigt i flere teknologier og systemer både indenfor Data og  GIS verdenen og generelt IT-udviklingsmæssigt.
     Min hjørnesten er at forstå det jeg formidler, jeg er altid glad for at lære nyt og betragter mig selv som højt motiveret og selvstændig, det giver tidligere arbejdsgivere mig ret i.
-    I dag arbejder jeg i Erhvervsstyrelsen, hvor jeg projektliggør IT-vedligehold efter SCRUM og SaFe modellerne. Samtidigt styrer jeg IT-udviklingen på en af breddest anvende offentlige IT-Sikkerhedsløsninger, Sector9.
+    I dag arbejder jeg i Erhvervsstyrelsen, hvor jeg projektliggør IT-vedligehold efter SCRUM og SaFe modellerne. Samtidigt styrer jeg IT-udviklingen på en af de bredest anvendte offentlige IT-Sikkerhedsløsninger, Sector9.
   location:
     #address: "2712 Broadway St"
     #postalCode: "CA 94115"
@@ -34,15 +35,15 @@ basics:
       username: "Jack Andersen"
       url: "https://www.linkedin.com/in/j-andersen/"
 work:
-  - company: "Erhvervsstyrelsen -IT og Digital kommunikation"
+  - company: "Erhvervsstyrelsen - IT og Digital kommunikation"
     position: "Application Manager"
     website: "https://erst.dk"
     startDate: "2018-09-15"
     endDate: ""
     summary: >
-      I Erhvervsstyrelsens systemportefølje er jeg ansvarlig for projektledelsen af IT-sikkerhedskomponenten Sector9.
-      Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. jeg udøver den 
-      praktiske daglige leverandør- og konsulent styring, planlægger, prioriterer, dokumenterer og beskriver opgaver på kort og lang sigt.
+      I Erhvervsstyrelsens systemportefølje er jeg ansvarlig for vedligeholdet og projektledelsen af videreudviklingen af IT-sikkerhedskomponenten Sector9.
+      Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. Jeg udøver den praktiske daglige leverandør- og konsulent styring, planlægger, prioriterer, dokumenterer og beskriver opgaver på kort og lang sigt.
+      Til dagligt er jeg i tæt dialog med IT-arkitekter myndigheder og teknikere. Det er vigtigt for mig at være en del af løsningen og bidrage til tekniske og organisatoriske beslutninger.
       Sector9 tjekker ind i flere større fællesoffentlige projekter som MitID og NemLog-in3, her koordinerer jeg indsatsen for Erhvervsstyrelsen.
     highlights:
       - "Administrerer Sector9 udvikling og features"
