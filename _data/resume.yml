@@ -45,6 +45,7 @@ work:
       Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. Jeg udøver den praktiske daglige leverandør- og konsulent styring, planlægger, prioriterer, dokumenterer og beskriver opgaver på kort og lang sigt.
       Til dagligt er jeg i tæt dialog med IT-arkitekter myndigheder og teknikere. Det er vigtigt for mig at være en del af løsningen og bidrage til tekniske og organisatoriske beslutninger.
       Sector9 tjekker ind i flere større fællesoffentlige projekter som MitID og NemLog-in3, her koordinerer jeg indsatsen for Erhvervsstyrelsen.
+      Plandata.dk og Boligejer.dk bor hos erhvervsstyrelsen, jeg har løbende involveret mig i konkrete problemstilinger de havde GIS mæssigt.
     highlights:
       - "Administrerer Sector9 udvikling og features"
       - "Koordinerer teknisk MitID og NemLog-in3 implementeringen"
@@ -58,7 +59,7 @@ work:
       Mange af mine opgaver flyttede fra SVANA og NST da de to styrelser blev samlet til SVANA og herefter til Miljøstyrelsen, derfor var min dagligdag uforandret. 
       Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, flere automatiske dataudtræk og analyser. Samtidigt er jeg en stor del i de projekter som omhandler integration af flere Remote sensing data fra droner 
       (sejlende og flyvende) samt satellitter under bl.a. EU’s Copernicus program. Mine opgaver har været meget database tekniske da vi har krav fra 
-      både fagområder, offentliggørelsen af nye data i Danmark og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
+      både fagområder, offentliggørelsen af nye data i Danmark og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne. Data blev udstillet via vores WebGIS platform Spatial Suite.
     highlights:
       - Projektet - "Nye metoder og teknologi i overvågningen"
       - GIS tekniker og EU kontakt - "WISE - Water Information System Europe"
@@ -191,12 +192,14 @@ skills:
   - name: "Geografisk Analyse"
     level: "Master"
     keywords:
+      - "Spatial Suite WebGIS"
       - "ArcGIS"
       - "QGIS"
       - "MapInfo"
       - "HALE"
       - "FME"
       - "PostGIS"
+      - "Tableau BI"
   - name: "Landmåling og Ingeniørarbejde"
     level: "Master"
     keywords:
