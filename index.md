@@ -14,10 +14,10 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
   <img width="250" src="/assets/img/misc/LScompare10_crop.png?raw=true" style="margin-right: 20px;">
   <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="165" src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true" style="margin-left: 20px">
   <img width="280" src="/assets/img/nst/dk_artsfund.png?raw=true">
+<br>
+<br>
+<br>
 </div>
-<br>
-<br>
-<br>
 
 --- 
 
