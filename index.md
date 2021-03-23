@@ -16,8 +16,6 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
   <img width="280" src="/assets/img/nst/dk_artsfund.png?raw=true">
 <br>
 <br>
-<br>
-<br>
 </div>
 
 --- 
