@@ -8,7 +8,7 @@ sitemap: false
 
 Jeg er Jack, uddannet Landinspektør med speciale i GeoInformatik 🌍. Jeg er nysgerrig af natur og har interesser indenfor teknik, elektronik og "visuelle" data 🧙.
 Siden her er ment som Min digitale forside, både personligt og fagligt.
-Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9** 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
+Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Specialiseret i Spatiale Data og datamodeller, både danske og internationale, **INSPIRE** 🗺️ og **WISE** 🧱. I 2018 tog jeg en afstikker og har siden beskæftiget mig med IT-vedligehold og projekter ⚙️, mit primære fokus har været IT-sikkerhedsløsningen **Sector9**. Her har jeg integreret IT-systemer med hinanden på tværs af myndigheder og virksomheder, med NemLog-in og helt med helt nye sikkerhedsprotokoller 🔒. Det er muligt at finde CV, Info & Sociale kanaler i sidemenuen 👈
 
 <div>
   <img width="250" src="/assets/img/misc/LScompare10_crop.png?raw=true" style="margin-right: 20px;">
@@ -57,11 +57,10 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ~~~html
 ├── Data/
 │   └── Leg og Nytænkning/
-├── Elektronik/
+├── Elektronik og Mekanik/
 │   ├── Arduino & Raspberry Pi/
-│   └── CAD, Design, 3D Print/
-├── Mekanik & Motorcykler/
-│   └── Robotter & CNC/
+│   └── CAD, Design, 3D Print, Robotter & CNC/
+│   └── Motorcykler/
 ├── Friluftliv/
 │   ├── Cykler/
 │   └── Jagt/
@@ -78,8 +77,8 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
   </a>
 </p>
   
-Jeg elsker standardiseringer og de frie data vi har her i Danmark, som kartografisk nørd er det yderst beljligt og noget jeg støtter op om. Hvis du er ny til geodata verdenen vil jeg anbefale at du kigger på [Kortforsyningen](http://download.kortforsyningen.dk), jeg ved det kan være svært at navigere i overflødigshornet "Kortforsyningen, men brug lidt tid på at lære forkortelserne og læs info teksten. Open Source er vigtigt for mig, jeg har deltaget på utallige af QGIS brugergruppe Danmarks events og bidraget med et logo design. Det er ikke alle mine arbejdsopgaver der har kunnet løses i Open Source værktøjer, men jeg er tilbøjelig til at afprøve hypotesen heri først, sejre eller fejl, før jeg tager de fat i de gængse værktøjer. Det har været en glæde at se QGIS vokse sig større over de sidste 5-6 år, og følger man med på mailing-listen vil man se antallet af participanter er steget voldsomt.
-Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligdag nemmere, der er flere IT værktøjer som de fleste overser men jeg bliver forelsket i. For nyligt prædikede jeg LaTex for min mindre IT-kyndige Juridiske Kæreste, men det fængede hende ikke helt. herefter brugte jeg flere timer på at lave det selv, jeg præsenterede for hende. Meget af min fritid bruges på diverse projekter, både digitale og fysiske. jeg har netop slebet nogle møbler ned og spraymalet dem, jeg har omlakeret min Motorcykel egenhændigt med flot resultat. Denne side er også et resultat af en weekends fiflerier.
+Jeg elsker standardiseringer og de frie data vi har her i Danmark, som kartografisk nørd er det yderst beljligt og noget jeg støtter op om. Hvis du er ny til geodata verdenen vil jeg anbefale at du kigger på [Kortforsyningen](http://download.kortforsyningen.dk), jeg ved det kan være svært at navigere i overflødigshornet "Kortforsyningen", men brug lidt tid på at lære forkortelserne og læs info teksten. Open Source er vigtigt for mig, jeg har deltaget på utallige af QGIS brugergruppe Danmarks events og bidraget med et logo design. Det er ikke alle mine arbejdsopgaver der har kunnet løses i Open Source værktøjer, men jeg er tilbøjelig til at afprøve hypotesen heri først, sejre eller fejle, før jeg tager fat i de gængse værktøjer. Det har været en glæde at se QGIS vokse sig større over de sidste 5-6 år, og følger man med på mailing-listen vil man se antallet af deltagere er steget voldsomt. Jeg anvender også FME og ArcGIS porteføjlen.
+Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligdag nemmere, der er flere IT værktøjer som de fleste overser men jeg bliver forelsket i. For nyligt prædikede jeg LaTex for min mindre IT-kyndige Juridiske Kæreste, men det fængede hende ikke helt. Herefter brugte jeg flere timer på at bygge det jeg præsenterede for hende, selv. Meget af min fritid bruges på diverse projekter, både digitale og fysiske. Jeg har netop renoveret og ompolstet nogle møbler, jeg har omlakeret en motorcykel og for nyligt tilføjede jeg nogle features til min egenbyggede maxi-3dprinter. Denne side er også et resultat af en weekends fiflerier.
 
 [documentation]: docs/README.md
 [install]: docs/install.md
