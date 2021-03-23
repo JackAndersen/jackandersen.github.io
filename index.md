@@ -70,15 +70,15 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 ---
 
-### Publikationer
+### 📚 Publikationer og lidt 
 
 <p>
   <a href="https://projekter.aau.dk/projekter/en/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"><img width="250" align='left' src="/assets/img/misc/frontpage.png?raw=true">
   </a>
 </p>
   
-Jeg elsker standardiseringer og de frie data vi har her i Danmark, som kartografisk nørd er det yderst beljligt og noget jeg støtter op om. Hvis du er ny til geodata verdenen vil jeg anbefale at du kigger på [Kortforsyningen](http://download.kortforsyningen.dk), jeg ved det kan være svært at navigere i overflødigshornet "Kortforsyningen", men brug lidt tid på at lære forkortelserne og læs info teksten. Open Source er vigtigt for mig, jeg har deltaget på utallige af QGIS brugergruppe Danmarks events og bidraget med et logo design. Det er ikke alle mine arbejdsopgaver der har kunnet løses i Open Source værktøjer, men jeg er tilbøjelig til at afprøve hypotesen heri først, sejre eller fejle, før jeg tager fat i de gængse værktøjer. Det har været en glæde at se QGIS vokse sig større over de sidste 5-6 år, og følger man med på mailing-listen vil man se antallet af deltagere er steget voldsomt. Jeg anvender også FME og ArcGIS porteføjlen.
-Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligdag nemmere, der er flere IT værktøjer som de fleste overser men jeg bliver forelsket i. For nyligt prædikede jeg LaTex for min mindre IT-kyndige Juridiske Kæreste, men det fængede hende ikke helt. Herefter brugte jeg flere timer på at bygge det jeg præsenterede for hende, selv. Meget af min fritid bruges på diverse projekter, både digitale og fysiske. Jeg har netop renoveret og ompolstet nogle møbler, jeg har omlakeret en motorcykel og for nyligt tilføjede jeg nogle features til min egenbyggede maxi-3dprinter. Denne side er også et resultat af en weekends fiflerier.
+Jeg skreve mit speciale om erosions risiciJeg elsker standardiseringer og de frie data vi har her i Danmark, som kartografisk nørd er det yderst beljligt og noget jeg støtter op om. Hvis du er ny til geodata verdenen vil jeg anbefale at du kigger på [Kortforsyningen](http://download.kortforsyningen.dk), jeg ved det kan være svært at navigere i overflødigshornet "Kortforsyningen", men brug lidt tid på at lære forkortelserne og læs info teksten. Open Source er vigtigt for mig, jeg har deltaget på utallige af QGIS brugergruppe Danmarks events og bidraget med et logo design. Det er ikke alle mine arbejdsopgaver der har kunnet løses i Open Source værktøjer, men jeg er tilbøjelig til at afprøve hypotesen heri først, sejre eller fejle, før jeg tager fat i de gængse værktøjer. Det har været en glæde at se QGIS vokse sig større over de sidste 5-6 år, og følger man med på mailing-listen vil man se antallet af deltagere er steget voldsomt. Jeg anvender også FME og ArcGIS porteføjlen.
+Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligdag nemmere, der er flere IT værktøjer som de fleste overser men jeg bliver forelsket i. For nyligt prædikede jeg LaTex for min mindre IT-kyndige Juridiske Kæreste, men det fængede hende ikke helt. Herefter brugte jeg flere timer på at bygge det jeg præsenterede for hende, selv. Meget af min fritid bruges på diverse projekter, både digitale og fysiske. Jeg har netop renoveret og ompolstet nogle møbler, jeg har omlakeret en motorcykel og for nyligt tilføjede jeg nogle features til min egenbyggede maxi-3dprinter. Denne side er også et resultat af en weekends fiflerier. 
 
 [documentation]: docs/README.md
 [install]: docs/install.md
