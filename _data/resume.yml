@@ -13,7 +13,7 @@ basics:
   summary: >
     Jeg er vokset op  i Nordsjælland og bor i dag, i København sammen med min kæreste, Sofie og hunden Allie.
     I 2016 blev jeg uddannet Landinspektør (Cand. Geom) med speciale i GeoInformatik, mit afgangsspeciale er linket længere nede og kan også findes i AAU's projektbibliotek.
-    Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette kan også afspejles i min tid som Landinspektør hvor grundprincippet er virkeliggørelse af data.
+    Data, modeller og den "Digitale Virkelighed" har altid været min store interesse, dette afspejles også i min tid som Landinspektør hvor grundprincippet er virkeliggørelse af data.
     Jeg er super nysgerrig af natur og har brede interesser inden for IT, teknik, elektronik og "visuelle" data. Jeg har stor fokus på forretningsunderstøttende systemer og adgang til data, herunder Open Source. 
     I mit forrige job, var jeg en væsentligt del af flere større pilot- og udviklingsprojekter inden for Geografiske data, som gav borgere, myndigheder og den Europæiske Union bedre og nemmere adgang til Danske Miljødata. Her sad jeg også som nationalt kontaktpunkt på en række specifikke data og datamodellerede med netop europæiske datamodeller. 
     I dag forsøger jeg at samle trådende og skabe dialogen på tværs af en stor organisation med mange stakeholders. Som Application Manager administrerer jeg IT-udviklingsaktiveterne i IT-sikkerhedsløsningen Sector9.
@@ -56,9 +56,9 @@ work:
     endDate: "2018-09-15"
     summary: >
       Mange af mine opgaver flyttede fra SVANA og NST da de to styrelser blev samlet til SVANA og herefter til Miljøstyrelsen, derfor var min dagligdag uforandret. 
-      Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, flere automatiske dataudtræk og analyser. Samtidigt er jeg en stor del i de projekter som omhandler integrering af flere Remote sensing data fra droner 
+      Dog med flere fagfolk og fagområder der skulle supporteres på Data og GIS områderne, flere automatiske dataudtræk og analyser. Samtidigt er jeg en stor del i de projekter som omhandler integration af flere Remote sensing data fra droner 
       (sejlende og flyvende) samt satellitter under bl.a. EU’s Copernicus program. Mine opgaver har været meget database tekniske da vi har krav fra 
-      både fagområder, offentliggørelsen af nye data Danmark og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
+      både fagområder, offentliggørelsen af nye data i Danmark og krav fra EU gennem vores rapporteringsforpligtelser på miljø direktiverne.
     highlights:
       - Projektet - "Nye metoder og teknologi i overvågningen"
       - GIS tekniker og EU kontakt - "WISE - Water Information System Europe"
@@ -70,7 +70,7 @@ work:
     endDate: "2017-02-01"
     summary: >
       Mine opgaver flyttede fra Naturstyrelsen, derfor var min dagligdag næsten uforandret. Dog fik jeg et mere datadrevet fokus, hvor jeg bl.a. fik mere ansvar 
-      indenfor INSPIRE forordningen og datamodellering ved HALE og FME.
+      indenfor INSPIRE forordningen og datamodellering ved HALE og FME. Jeg har været i tæt kontakt med WeTransform i tyskland om datamodelering og deltaget på deres INSPIRE konferencer i Darmstadt/Frankfurt.
     highlights:
       - "INSPIRE  EU Spatial Data Infrastructure"
       
@@ -84,11 +84,11 @@ work:
       på overflade- og grundvand. Teknisk vejleder ifm. indkøb og set-up af måle-udstyr, droner, satellitdata, servere, hardware, data storage og machine learning algoritmer 
       til brug i forbindelse med pilot projekter, der omhandler indførelse af nye metoder og teknologier til overvågning af dyrebestande, auto klassificering af naturtyper 
       og automatisk indsamling af vandprøver mm. Jeg er systemansvarlig og udvikler på vores ArcGIS C# baserede kortskab , hvor jeg vedligeholder databasen og programmerer 
-      mindre nye features og rettelser. Herudover har jeg ansvaret for vores web baserede metadata administrationssystem og tilhørende PostgreSQL database. Jeg er 
+      mindre nye features og rettelser. Herudover har jeg ansvaret for vores web baserede metadata administrationssystem (GeoNetwork som også kobler op til geodata-info.dk) og tilhørende PostgreSQL database. Jeg er 
       teknisk vejleder for Naturstyrelsens kommende overfladevand-database og har desuden opstillet vores Topologiske-regler for vores EU indberetninger af både overflade- og 
-      grundvand som rapporteres både som Access database , XML og GML. 
+      grundvand som rapporteres både som Access database , XML og GML.
     highlights:
-      - "Facilitator Ministriel GIS Arbejdsgruppe"
+      - "Tovholder Ministriel GIS Arbejdsgruppe"
       
   - company: "Naturstyrelsen - IT & Data"
     position: "Praktikant og Studentermedhjælp"
