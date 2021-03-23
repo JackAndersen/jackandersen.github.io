@@ -70,7 +70,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 ---
 
-### 📚 Publikationer og lidt 
+## 📚 Publikationer
 
 <p>
   <a href="https://projekter.aau.dk/projekter/en/studentthesis/erosion-risk-mapping-evaluating-the-effects-of-high-resolution-topographic-data-in-erosion-modelling(181e9f1f-ebc7-4e33-8b58-2905bf7399ce).html"><img width="250" align='left' src="/assets/img/misc/frontpage.png?raw=true">
