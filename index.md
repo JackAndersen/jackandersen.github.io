@@ -79,7 +79,7 @@ Jeg har skrevet mit Speciale i LaTex og elsker værktøjer der gør min dagligda
   </a>
 </p>
   
-Jeg skrev mit speciale om erosions risici og modellering, da jeg forinden havde bearbejdet[The Bruun Rule](https://en.wikipedia.org/wiki/The_Bruun_Rule). Per Bruun er Dansk og publicerede i 1962 en artikel i det Amerikanske tidsskrift "Society og Civil Engineers" om kystrecession. Kort fortalt er Bruuns Regel en matemitisk empirisk model der forsøger at afdække et lineært forhold mellem vandstandsstigning/havstigning og kysttilbagetrækning. Matematikken tager udgangspunkt i en hypotese om at havbunden bevarer sit tværsnit og der er et ligevægtigt fohold mellem kystrecessionen og vandstigningen. Det gav mig blod på tanden til at udforske andre empirisk modeller som relativt nemt kan implementeres i GIS. Mit speciale emne blev derfor RUSLE modellen som beskriver erosion.
+Jeg skrev mit speciale om erosions risici og modellering, da jeg forinden havde bearbejdet [The Bruun Rule](https://en.wikipedia.org/wiki/The_Bruun_Rule). Per Bruun er Dansk og publicerede i 1962 en artikel i det Amerikanske tidsskrift "Society og Civil Engineers" om kystrecession. Kort fortalt er Bruuns Regel en matemitisk empirisk model der forsøger at afdække et lineært forhold mellem vandstandsstigning/havstigning og kysttilbagetrækning. Matematikken tager udgangspunkt i en hypotese om at havbunden bevarer sit tværsnit og der er et ligevægtigt fohold mellem kystrecessionen og vandstigningen. Det gav mig blod på tanden til at udforske andre empirisk modeller som relativt nemt kan implementeres i GIS. Mit speciale emne blev derfor RUSLE modellen som beskriver erosion.
 
 [documentation]: docs/README.md
 [install]: docs/install.md
