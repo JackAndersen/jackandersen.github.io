@@ -15,7 +15,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
   <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/nst/Layout_1_7_samlet-3.png"><img width="155" src="/assets/img/nst/Layout_1_7_samlet-3.png?raw=true"></a>
   <img width="280" src="/assets/img/nst/dk_artsfund.png?raw=true">
   <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/roads_of_nordhavn.png"><img width="220" src="/assets/img/roads_of_nordhavn.png?raw=true"></a>
-  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/neo4j.PNG"><img width="220" src="/assets/img/neo4j.png?raw=true"></a>
+  <a href="https://raw.githubusercontent.com/JackAndersen/jackandersen.github.io/master/assets/img/neo4j.PNG"><img width="220" src="/assets/img/neo4j.PNG?raw=true"></a>
 <br>
 </div>
 
