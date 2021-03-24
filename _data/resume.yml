@@ -168,12 +168,12 @@ awards:
   - title: "Projektleder uddannelse 2020"
     date: "2020-06-01"
     awarder: "Implement consulting group"
-    summary: "http://www.implementconsultinggroup.com/generel-projektledelse/"
+    summary: "www.implementconsultinggroup.com/generel-projektledelse"
   
   - title: "Hale Studio - EU datamodelleringskursus"
     date: "2018-02-16"
     awarder: "We Transform gmbh"
-    summary: "http://www.wetransform.to/"
+    summary: "www.wetransform.to"
 
 publications:
   - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
