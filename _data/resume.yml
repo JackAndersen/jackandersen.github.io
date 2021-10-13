@@ -168,17 +168,17 @@ awards:
   - title: "Projektleder uddannelse 2020"
     date: "2020-06-01"
     awarder: "Implement consulting group"
-    summary: "www.implementconsultinggroup.com/generel-projektledelse"
+    summary: "implementconsultinggroup.com/generel-projektledelse"
   
   - title: "Hale Studio - EU datamodelleringskursus"
     date: "2018-02-16"
     awarder: "We Transform gmbh"
-    summary: "www.wetransform.to"
+    summary: "wetransform.to"
     
   - title: "Grundbegreber og modellering med UML 2.0"
     date: "2017-06-01"
     awarder: "Strand & Donslund"
-    summary: "https://arkitektur.digst.dk/kompetencer/kurser"
+    summary: "arkitektur.digst.dk/kompetencer/kurser"
 
 publications:
   - name: "Erosion risk mapping, using high resolution topographic data in RUSLE"
