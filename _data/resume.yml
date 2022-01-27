@@ -35,11 +35,28 @@ basics:
       username: "Jack Andersen"
       url: "https://www.linkedin.com/in/j-andersen/"
 work:
+  - company: "IT34"
+    position: "Procesoptimeringskonsulent"
+    website: "https://it34.com"
+    startDate: "2021-01-01"
+    endDate: ""
+    summary: >
+      IT34 er sat i verden for at servicere Landinspektørkontoret LE34 A/S og deres mange forretninger, kontorer og kunder. 
+      Som Procesoptimeringskonsulent er min rolle at opsøge og forstå specifikke interne arbejdsgange, sætte mig ind i vores tekniske værktøjer og behov.
+      Vi forsøger at videreudvikle egne værktøjer, fjerne overflødige benspænd eller opsøge nye dele af markedet. Det handler om at sætte kunden først og
+      det gør vi bedst ved at være skarpe internt. Min daglidag er meget divers, for jeg oplever tit at vores Landinspektører og IT forretninger har et ønske om at inddrage mig i deres tanker
+      og deres ideer. Her filtrerer jeg og arbejder mig ind i de områder som kan give noget på tværs.
+      Jeg involverer mig i arbejdet på kontorerne og får selv lov at prøve kræfter med arbejdsgange og ser de gode ideer. Jeg involverer mig løbende i konkrete problemstilinger, og lytter på vandrørene om nye teknologier og tendenser.
+      Man er tæt på Landinspektørerne og det matrikulære og det CAD/GIS specifikke når man går på tværs af LE34 og IT34.
+    highlights:
+      - ""
+      - ""
+
   - company: "Erhvervsstyrelsen - IT og Digital kommunikation"
     position: "Application Manager"
     website: "https://erst.dk"
     startDate: "2018-09-15"
-    endDate: ""
+    endDate: "2021-01-01"
     summary: >
       I Erhvervsstyrelsens systemportefølje er jeg ansvarlig for vedligeholdet og projektledelsen af videreudviklingen af IT-sikkerhedskomponenten Sector9.
       Sector9 er anvendt flere steder i de statslige organisationer og jeg koordinerer på tværs. Jeg udøver den praktiske daglige leverandør- og konsulent styring, planlægger, prioriterer, dokumenterer og beskriver opgaver på kort og lang sigt.
