@@ -82,7 +82,7 @@ paginate_path:         /blog/:num/
 # ---------------------------------------------------------------------------------------
 
 #theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack
+remote_theme: hydecorp/hydejack@9.1.6
 
 
 # Customizaton
