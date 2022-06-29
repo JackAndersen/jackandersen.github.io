@@ -33,7 +33,8 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 
 | Ansættelser | Stillinger |
 |-:|:-|
-| Erhvervsstyrelsen [2018 - 202+] | [2018 - 202+] **Application Manager** |
+| IT34 [2021 - 202+] | [2021 - 202+] **Procesoptimeringskonsulent** |
+| Erhvervsstyrelsen [2018 - 2021] | [2018 - 2021] **Application Manager** |
 | Miljøstyrelsen [2017-2018] | [2017-2018] **Geodata specialist** |
 | Styrelsen for Vand- og Naturforvaltning [2016-2017] | [2016-2017] **Geodata specialist** |
 | Natursyrelsen [2016-2016] | [2016-2016] **GIS Medarbejder** |
