@@ -32,7 +32,7 @@ Uddannet i 2016 ved Aalborg Universitet, København og har lige siden været Spe
 ## 👔 Karriere
 
 | Ansættelser | | Stillinger |
-|-:|-|:-|
+|-:|:|:-|
 | IT34 | [2022 -     ] | **Procesoptimeringskonsulent** |
 | Erhvervsstyrelsen | [2018 - 2022] | **Application Manager** |
 | Miljøstyrelsen | [2017-2018] | **Geodata specialist** |
