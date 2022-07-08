@@ -54,6 +54,8 @@ menu:
 #    url:               /projects/
   - title:             CV
     url:               /resume/
+  - title:             VCTA 2022
+    url:               /vcta22/ #/docs/
 #  - title:             Documentation
 #    url:               /docs/
 
