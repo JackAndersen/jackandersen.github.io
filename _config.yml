@@ -55,9 +55,11 @@ menu:
   - title:             CV
     url:               /resume/
   - title:             VCTA 2022
-    url:               /vcta22/ #/docs/
+    url:               /vcta22/
   - title:             Tanzania 2023
-    url:               /tanzania23/ #/docs/
+    url:               /tanzania23/
+  - title:             PhotoGPS - Se billeder i kort
+    url:               https://geohost.xyz/
 #  - title:             Documentation
 #    url:               /docs/
 
